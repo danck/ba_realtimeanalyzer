@@ -4,7 +4,7 @@
 		module="realtime-analyzer_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20150517190853"
+		publication="20150517191323"
 	>
 		<description>
 		realtime-analyzer
@@ -36,8 +36,5 @@
 		<dependency org="org.apache.spark" name="spark-mllib_2.10" rev="1.3.0" conf="compile->default(compile)"/>
 		<dependency org="org.apache.spark" name="spark-streaming_2.10" rev="1.3.0" conf="compile->default(compile)"/>
 		<dependency org="org.apache.spark" name="spark-streaming-twitter_2.10" rev="1.3.0" conf="compile->default(compile)"/>
-		<dependency org="org.twitter4j" name="twitter4j" rev="4.0.0" conf="compile->default(compile)"/>
-		<dependency org="org.twitter4j" name="twitter4j-core" rev="4.0.0" conf="compile->default(compile)"/>
-		<dependency org="org.twitter4j" name="twitter4j-stream" rev="4.0.0" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>
