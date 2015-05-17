@@ -4,7 +4,7 @@
 		module="realtime-analyzer$sources_javadoc_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20150517190624"
+		publication="20150517190919"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
@@ -540,13 +540,17 @@
 			<artifact name="spark-streaming-twitter_2.10" type="src" ext="jar" conf="sources" e:classifier="sources"/>
 			<artifact name="spark-streaming-twitter_2.10" type="doc" ext="jar" conf="docs" e:classifier="javadoc"/>
 		</dependency>
-		<dependency org="org.twitter4j" name="twitter4j-stream" rev="3.0.3" transitive="false" conf="compile->default(compile);runtime->default(compile);test->default(compile);compile-internal->default(compile);runtime-internal->default(compile);test-internal->default(compile)">
-			<artifact name="twitter4j-stream" type="src" ext="jar" conf="sources" e:classifier="sources"/>
-			<artifact name="twitter4j-stream" type="doc" ext="jar" conf="docs" e:classifier="javadoc"/>
+		<dependency org="org.twitter4j" name="twitter4j" rev="4.0.0" transitive="false" conf="compile->default(compile);runtime->default(compile);test->default(compile);compile-internal->default(compile);runtime-internal->default(compile);test-internal->default(compile)">
+			<artifact name="twitter4j" type="src" ext="jar" conf="sources" e:classifier="sources"/>
+			<artifact name="twitter4j" type="doc" ext="jar" conf="docs" e:classifier="javadoc"/>
 		</dependency>
-		<dependency org="org.twitter4j" name="twitter4j-core" rev="3.0.3" transitive="false" conf="compile->default(compile);runtime->default(compile);test->default(compile);compile-internal->default(compile);runtime-internal->default(compile);test-internal->default(compile)">
+		<dependency org="org.twitter4j" name="twitter4j-core" rev="4.0.0" transitive="false" conf="compile->default(compile);runtime->default(compile);test->default(compile);compile-internal->default(compile);runtime-internal->default(compile);test-internal->default(compile)">
 			<artifact name="twitter4j-core" type="src" ext="jar" conf="sources" e:classifier="sources"/>
 			<artifact name="twitter4j-core" type="doc" ext="jar" conf="docs" e:classifier="javadoc"/>
+		</dependency>
+		<dependency org="org.twitter4j" name="twitter4j-stream" rev="4.0.0" transitive="false" conf="compile->default(compile);runtime->default(compile);test->default(compile);compile-internal->default(compile);runtime-internal->default(compile);test-internal->default(compile)">
+			<artifact name="twitter4j-stream" type="src" ext="jar" conf="sources" e:classifier="sources"/>
+			<artifact name="twitter4j-stream" type="doc" ext="jar" conf="docs" e:classifier="javadoc"/>
 		</dependency>
 		<dependency org="commons-net" name="commons-net" rev="3.1" transitive="false" conf="runtime->default(compile);test->default(compile);compile-internal->default(compile);runtime-internal->default(compile);test-internal->default(compile)">
 			<artifact name="commons-net" type="src" ext="jar" conf="sources" e:classifier="sources"/>

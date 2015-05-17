@@ -12,7 +12,7 @@
 [debug] == resolving dependencies for realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0 [compile]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.10.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c77a5a8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68edff72
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4
 [debug] 	found org.scala-lang#scala-library;2.10.4 in sbt-chain
 [debug] 	[2.10.4] org.scala-lang#scala-library;2.10.4
@@ -21,7 +21,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-mllib_2.10;1.3.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-mllib_2.10;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7dad99e5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@187b9a3f
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-mllib_2.10;1.3.0
 [debug] 	found org.apache.spark#spark-mllib_2.10;1.3.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-mllib_2.10;1.3.0 [compile->runtime]
@@ -29,7 +29,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-mllib_2.10;1.3.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-core_2.10;1.3.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-core_2.10;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@760be176
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@761262c8
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-core_2.10;1.3.0
 [debug] 	found org.apache.spark#spark-core_2.10;1.3.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-core_2.10;1.3.0 [compile->runtime]
@@ -37,7 +37,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-core_2.10;1.3.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#chill_2.10;0.5.0 [compile->default(compile)]
 [info] Resolving com.twitter#chill_2.10;0.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11de683f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e0370f0
 [debug] sbt-chain: module revision found in cache: com.twitter#chill_2.10;0.5.0
 [debug] 	found com.twitter#chill_2.10;0.5.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#chill_2.10;0.5.0 [compile->runtime]
@@ -45,7 +45,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#chill_2.10;0.5.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#chill-java;0.5.0 [compile->default(compile)]
 [info] Resolving com.twitter#chill-java;0.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40132e2b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@251e8a03
 [debug] sbt-chain: module revision found in cache: com.twitter#chill-java;0.5.0
 [debug] 	found com.twitter#chill-java;0.5.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#chill-java;0.5.0 [compile->runtime]
@@ -53,7 +53,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#chill-java;0.5.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.esotericsoftware.kryo#kryo;2.21 [compile->default(compile)]
 [info] Resolving com.esotericsoftware.kryo#kryo;2.21 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2339d937
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5593f184
 [debug] sbt-chain: module revision found in cache: com.esotericsoftware.kryo#kryo;2.21
 [debug] 	found com.esotericsoftware.kryo#kryo;2.21 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.esotericsoftware.kryo#kryo;2.21 [compile->runtime]
@@ -61,7 +61,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.esotericsoftware.kryo#kryo;2.21 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.esotericsoftware.reflectasm#reflectasm;1.07 [compile->default(compile)]
 [info] Resolving com.esotericsoftware.reflectasm#reflectasm;1.07 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d5481c8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e50cace
 [debug] sbt-chain: module revision found in cache: com.esotericsoftware.reflectasm#reflectasm;1.07
 [debug] 	found com.esotericsoftware.reflectasm#reflectasm;1.07 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.esotericsoftware.reflectasm#reflectasm;1.07 [compile->runtime]
@@ -69,7 +69,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.esotericsoftware.reflectasm#reflectasm;1.07 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.esotericsoftware.minlog#minlog;1.2 [compile->default(compile)]
 [info] Resolving com.esotericsoftware.minlog#minlog;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@36bf4736
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3985062d
 [debug] sbt-chain: module revision found in cache: com.esotericsoftware.minlog#minlog;1.2
 [debug] 	found com.esotericsoftware.minlog#minlog;1.2 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.esotericsoftware.minlog#minlog;1.2 [compile->runtime]
@@ -77,7 +77,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.esotericsoftware.minlog#minlog;1.2 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.objenesis#objenesis;1.2 [compile->default(compile)]
 [info] Resolving org.objenesis#objenesis;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5b76ee66
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@23362da0
 [debug] sbt-chain: module revision found in cache: org.objenesis#objenesis;1.2
 [debug] 	found org.objenesis#objenesis;1.2 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.objenesis#objenesis;1.2 [compile->runtime]
@@ -85,7 +85,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.objenesis#objenesis;1.2 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-client;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-client;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f1a2838
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c743cfd
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-client;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-client;2.2.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-client;2.2.0 [compile->runtime]
@@ -93,7 +93,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-client;2.2.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-common;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8c9ec57
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@189da615
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-common;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-common;2.2.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-common;2.2.0 [compile->runtime]
@@ -101,7 +101,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-common;2.2.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-annotations;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-annotations;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3204aec1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70676c2e
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-annotations;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-annotations;2.2.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-annotations;2.2.0 [compile->runtime]
@@ -109,7 +109,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-annotations;2.2.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-cli#commons-cli;1.2 [compile->default(compile)]
 [info] Resolving commons-cli#commons-cli;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@25db9db5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7969b5b
 [debug] sbt-chain: module revision found in cache: commons-cli#commons-cli;1.2
 [debug] 	found commons-cli#commons-cli;1.2 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-cli#commons-cli;1.2 [compile->runtime]
@@ -117,7 +117,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-cli#commons-cli;1.2 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.commons#commons-math;2.1 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-math;2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@17c97f44
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@377d3342
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-math;2.1
 [debug] 	found org.apache.commons#commons-math;2.1 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.commons#commons-math;2.1 [compile->runtime]
@@ -125,7 +125,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.commons#commons-math;2.1 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-httpclient#commons-httpclient;3.1 [compile->default(compile)]
 [info] Resolving commons-httpclient#commons-httpclient;3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@76bc3117
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5229379
 [debug] sbt-chain: module revision found in cache: commons-httpclient#commons-httpclient;3.1
 [debug] 	found commons-httpclient#commons-httpclient;3.1 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-httpclient#commons-httpclient;3.1 [compile->runtime]
@@ -133,7 +133,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-httpclient#commons-httpclient;3.1 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-logging#commons-logging;1.1.1 [compile->default(compile)]
 [info] Resolving commons-logging#commons-logging;1.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3efb8184
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1226033b
 [debug] sbt-chain: module revision found in cache: commons-logging#commons-logging;1.1.1
 [debug] 	found commons-logging#commons-logging;1.1.1 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-logging#commons-logging;1.1.1 [compile->runtime]
@@ -141,7 +141,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-logging#commons-logging;1.1.1 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->log4j#log4j;1.2.17 [compile->default(compile)]
 [info] Resolving log4j#log4j;1.2.17 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3984b5cc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@39a22625
 [debug] sbt-chain: module revision found in cache: log4j#log4j;1.2.17
 [debug] 	found log4j#log4j;1.2.17 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->log4j#log4j;1.2.17 [compile->runtime]
@@ -149,7 +149,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->log4j#log4j;1.2.17 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-lang#commons-lang;2.5 [compile->default(compile)]
 [info] Resolving commons-lang#commons-lang;2.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7da40efa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16509d68
 [debug] sbt-chain: module revision found in cache: commons-lang#commons-lang;2.5
 [debug] 	found commons-lang#commons-lang;2.5 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-lang#commons-lang;2.5 [compile->runtime]
@@ -157,7 +157,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-lang#commons-lang;2.5 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-configuration#commons-configuration;1.6 [compile->default(compile)]
 [info] Resolving commons-configuration#commons-configuration;1.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@19e57484
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5d55c2a2
 [debug] sbt-chain: module revision found in cache: commons-configuration#commons-configuration;1.6
 [debug] 	found commons-configuration#commons-configuration;1.6 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-configuration#commons-configuration;1.6 [compile->runtime]
@@ -165,7 +165,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-configuration#commons-configuration;1.6 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-collections#commons-collections;3.2.1 [compile->default(compile)]
 [info] Resolving commons-collections#commons-collections;3.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@206ce478
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6b3d8a1e
 [debug] sbt-chain: module revision found in cache: commons-collections#commons-collections;3.2.1
 [debug] 	found commons-collections#commons-collections;3.2.1 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-collections#commons-collections;3.2.1 [compile->runtime]
@@ -173,7 +173,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-collections#commons-collections;3.2.1 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-digester#commons-digester;1.8 [compile->default(compile)]
 [info] Resolving commons-digester#commons-digester;1.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@158d7d28
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22923016
 [debug] sbt-chain: module revision found in cache: commons-digester#commons-digester;1.8
 [debug] 	found commons-digester#commons-digester;1.8 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-digester#commons-digester;1.8 [compile->runtime]
@@ -181,7 +181,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-digester#commons-digester;1.8 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-beanutils#commons-beanutils;1.7.0 [compile->default(compile)]
 [info] Resolving commons-beanutils#commons-beanutils;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@77d15c6f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7255bda4
 [debug] sbt-chain: module revision found in cache: commons-beanutils#commons-beanutils;1.7.0
 [debug] 	found commons-beanutils#commons-beanutils;1.7.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-beanutils#commons-beanutils;1.7.0 [compile->runtime]
@@ -189,7 +189,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-beanutils#commons-beanutils;1.7.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.avro#avro;1.7.4 [compile->default(compile)]
 [info] Resolving org.apache.avro#avro;1.7.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@494784f7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f8f3150
 [debug] sbt-chain: module revision found in cache: org.apache.avro#avro;1.7.4
 [debug] 	found org.apache.avro#avro;1.7.4 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.avro#avro;1.7.4 [compile->runtime]
@@ -197,7 +197,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.avro#avro;1.7.4 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.commons#commons-compress;1.4.1 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-compress;1.4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42d7e31f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1549a8af
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-compress;1.4.1
 [debug] 	found org.apache.commons#commons-compress;1.4.1 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.commons#commons-compress;1.4.1 [compile->runtime]
@@ -205,7 +205,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.commons#commons-compress;1.4.1 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.tukaani#xz;1.0 [compile->default(compile)]
 [info] Resolving org.tukaani#xz;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31e57175
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f3d6822
 [debug] sbt-chain: module revision found in cache: org.tukaani#xz;1.0
 [debug] 	found org.tukaani#xz;1.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.tukaani#xz;1.0 [compile->runtime]
@@ -213,7 +213,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.tukaani#xz;1.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.5.0 [compile->default(compile)]
 [info] Resolving com.google.protobuf#protobuf-java;2.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c92d590
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5cf777c3
 [debug] sbt-chain: module revision found in cache: com.google.protobuf#protobuf-java;2.5.0
 [debug] 	found com.google.protobuf#protobuf-java;2.5.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.5.0 [compile->runtime]
@@ -221,7 +221,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.5.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-auth;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-auth;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@437dd7a0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@327291f1
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-auth;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-auth;2.2.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-auth;2.2.0 [compile->runtime]
@@ -229,7 +229,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-auth;2.2.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-hdfs;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-hdfs;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4eab2f55
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4bdc69c7
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-hdfs;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-hdfs;2.2.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-hdfs;2.2.0 [compile->runtime]
@@ -237,7 +237,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-hdfs;2.2.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.mortbay.jetty#jetty-util;6.1.26 [compile->default(compile)]
 [info] Resolving org.mortbay.jetty#jetty-util;6.1.26 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@510317b6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@67571ca4
 [debug] sbt-chain: module revision found in cache: org.mortbay.jetty#jetty-util;6.1.26
 [debug] 	found org.mortbay.jetty#jetty-util;6.1.26 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.mortbay.jetty#jetty-util;6.1.26 [compile->runtime]
@@ -245,7 +245,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.mortbay.jetty#jetty-util;6.1.26 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5ac21dcf
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ff97782
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 [compile->runtime]
@@ -253,9 +253,9 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e42231c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22a11f99
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@6e42231c
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@22a11f99
 [debug] 		tried C:\Users\Daniel\.ivy2\local\org.apache.hadoop\hadoop-mapreduce-client-common\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.pom
@@ -265,7 +265,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0!hadoop-mapreduce-client-common.pom(pom.original) (384ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0!hadoop-mapreduce-client-common.pom(pom.original) (367ms)
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-mapreduce-client;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client;2.2.0
@@ -275,9 +275,9 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-common;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@64dc18c6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@52987014
 [info] Resolving org.apache.hadoop#hadoop-yarn-common;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@64dc18c6
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@52987014
 [debug] 		tried C:\Users\Daniel\.ivy2\local\org.apache.hadoop\hadoop-yarn-common\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-yarn-common;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.pom
@@ -287,7 +287,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-common;2.2.0!hadoop-yarn-common.pom(pom.original) (386ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-common;2.2.0!hadoop-yarn-common.pom(pom.original) (361ms)
 [info] Resolving org.apache.hadoop#hadoop-yarn;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn;2.2.0
@@ -297,9 +297,9 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-common;2.2.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-api;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-api;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1f201123
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@592d2f5a
 [info] Resolving org.apache.hadoop#hadoop-yarn-api;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@1f201123
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@592d2f5a
 [debug] 		tried C:\Users\Daniel\.ivy2\local\org.apache.hadoop\hadoop-yarn-api\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-yarn-api;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.pom
@@ -309,7 +309,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-api;2.2.0!hadoop-yarn-api.pom(pom.original) (406ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-api;2.2.0!hadoop-yarn-api.pom(pom.original) (368ms)
 [info] Resolving org.apache.hadoop#hadoop-yarn;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn;2.2.0
@@ -319,7 +319,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-api;2.2.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.google.inject#guice;3.0 [compile->default(compile)]
 [info] Resolving com.google.inject#guice;3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@14281764
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@218bae9e
 [debug] sbt-chain: module revision found in cache: com.google.inject#guice;3.0
 [debug] 	found com.google.inject#guice;3.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.google.inject#guice;3.0 [compile->runtime]
@@ -327,7 +327,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.google.inject#guice;3.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->javax.inject#javax.inject;1 [compile->default(compile)]
 [info] Resolving javax.inject#javax.inject;1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@523e4f65
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@681a4908
 [debug] sbt-chain: module revision found in cache: javax.inject#javax.inject;1
 [debug] 	found javax.inject#javax.inject;1 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->javax.inject#javax.inject;1 [compile->runtime]
@@ -335,7 +335,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->javax.inject#javax.inject;1 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->aopalliance#aopalliance;1.0 [compile->default(compile)]
 [info] Resolving aopalliance#aopalliance;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@579478b2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@645d0ea0
 [debug] sbt-chain: module revision found in cache: aopalliance#aopalliance;1.0
 [debug] 	found aopalliance#aopalliance;1.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->aopalliance#aopalliance;1.0 [compile->runtime]
@@ -343,7 +343,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->aopalliance#aopalliance;1.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.sonatype.sisu.inject#cglib;2.2.1-v20090111 [compile->default(compile)]
 [info] Resolving org.sonatype.sisu.inject#cglib;2.2.1-v20090111 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6cebe6fe
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@74f7f3c1
 [debug] sbt-chain: module revision found in cache: org.sonatype.sisu.inject#cglib;2.2.1-v20090111
 [debug] 	found org.sonatype.sisu.inject#cglib;2.2.1-v20090111 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.sonatype.sisu.inject#cglib;2.2.1-v20090111 [compile->runtime]
@@ -351,7 +351,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.sonatype.sisu.inject#cglib;2.2.1-v20090111 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 [compile->default(compile)]
 [info] Resolving com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@595537c7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e79b272
 [debug] sbt-chain: module revision found in cache: com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9
 [debug] 	found com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 [compile->runtime]
@@ -359,7 +359,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.sun.jersey#jersey-server;1.9 [compile->default(compile)]
 [info] Resolving com.sun.jersey#jersey-server;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a54b6e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@77e69fd7
 [debug] sbt-chain: module revision found in cache: com.sun.jersey#jersey-server;1.9
 [debug] 	found com.sun.jersey#jersey-server;1.9 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.sun.jersey#jersey-server;1.9 [compile->runtime]
@@ -367,7 +367,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.sun.jersey#jersey-server;1.9 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.sun.jersey#jersey-json;1.9 [compile->default(compile)]
 [info] Resolving com.sun.jersey#jersey-json;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@69a5ae5a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b2c47b
 [debug] sbt-chain: module revision found in cache: com.sun.jersey#jersey-json;1.9
 [debug] 	found com.sun.jersey#jersey-json;1.9 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.sun.jersey#jersey-json;1.9 [compile->runtime]
@@ -375,7 +375,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.sun.jersey#jersey-json;1.9 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.codehaus.jettison#jettison;1.1 [compile->default(compile)]
 [info] Resolving org.codehaus.jettison#jettison;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30ee2a57
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71d71fb1
 [debug] sbt-chain: module revision found in cache: org.codehaus.jettison#jettison;1.1
 [debug] 	found org.codehaus.jettison#jettison;1.1 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.codehaus.jettison#jettison;1.1 [compile->runtime]
@@ -383,7 +383,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.codehaus.jettison#jettison;1.1 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.sun.xml.bind#jaxb-impl;2.2.3-1 [compile->default(compile)]
 [info] Resolving com.sun.xml.bind#jaxb-impl;2.2.3-1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@165ed650
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5ca3aff8
 [debug] sbt-chain: module revision found in cache: com.sun.xml.bind#jaxb-impl;2.2.3-1
 [debug] 	found com.sun.xml.bind#jaxb-impl;2.2.3-1 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.sun.xml.bind#jaxb-impl;2.2.3-1 [compile->runtime]
@@ -391,7 +391,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.sun.xml.bind#jaxb-impl;2.2.3-1 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->javax.xml.bind#jaxb-api;2.2.2 [compile->default(compile)]
 [info] Resolving javax.xml.bind#jaxb-api;2.2.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5926202e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6444aa6
 [debug] sbt-chain: module revision found in cache: javax.xml.bind#jaxb-api;2.2.2
 [debug] 	found javax.xml.bind#jaxb-api;2.2.2 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->javax.xml.bind#jaxb-api;2.2.2 [compile->runtime]
@@ -399,7 +399,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->javax.xml.bind#jaxb-api;2.2.2 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->javax.activation#activation;1.1 [compile->default(compile)]
 [info] Resolving javax.activation#activation;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2bb9113b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a32a73a
 [debug] sbt-chain: module revision found in cache: javax.activation#activation;1.1
 [debug] 	found javax.activation#activation;1.1 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->javax.activation#activation;1.1 [compile->runtime]
@@ -407,7 +407,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->javax.activation#activation;1.1 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-jaxrs;1.8.8 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-jaxrs;1.8.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b0abf34
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@cafec3c
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-jaxrs;1.8.8
 [debug] 	found org.codehaus.jackson#jackson-jaxrs;1.8.8 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-jaxrs;1.8.8 [compile->runtime]
@@ -415,7 +415,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-jaxrs;1.8.8 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-xc;1.8.8 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-xc;1.8.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@74591765
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1fd4ea87
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-xc;1.8.8
 [debug] 	found org.codehaus.jackson#jackson-xc;1.8.8 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-xc;1.8.8 [compile->runtime]
@@ -423,7 +423,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-xc;1.8.8 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.sun.jersey.contribs#jersey-guice;1.9 [compile->default(compile)]
 [info] Resolving com.sun.jersey.contribs#jersey-guice;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f7babea
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ceae02f
 [debug] sbt-chain: module revision found in cache: com.sun.jersey.contribs#jersey-guice;1.9
 [debug] 	found com.sun.jersey.contribs#jersey-guice;1.9 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.sun.jersey.contribs#jersey-guice;1.9 [compile->runtime]
@@ -431,7 +431,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.sun.jersey.contribs#jersey-guice;1.9 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-client;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-client;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7529ff43
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30e6e02c
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-client;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-yarn-client;2.2.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-client;2.2.0 [compile->runtime]
@@ -439,7 +439,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-client;2.2.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7717089c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33d145ac
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 [compile->runtime]
@@ -447,7 +447,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-server-common;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-server-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@270bc99f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8f194a4
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-server-common;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-yarn-server-common;2.2.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-server-common;2.2.0 [compile->runtime]
@@ -455,9 +455,9 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-server-common;2.2.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2db1c4bb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7aa81367
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@2db1c4bb
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@7aa81367
 [debug] 		tried C:\Users\Daniel\.ivy2\local\org.apache.hadoop\hadoop-mapreduce-client-shuffle\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.pom
@@ -467,7 +467,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0!hadoop-mapreduce-client-shuffle.pom(pom.original) (378ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0!hadoop-mapreduce-client-shuffle.pom(pom.original) (380ms)
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-mapreduce-client;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client;2.2.0
@@ -477,7 +477,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@577513fb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42626469
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 [compile->runtime]
@@ -485,7 +485,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-network-common_2.10;1.3.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-network-common_2.10;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2b6c83fa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f23ef26
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-network-common_2.10;1.3.0
 [debug] 	found org.apache.spark#spark-network-common_2.10;1.3.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-network-common_2.10;1.3.0 [compile->runtime]
@@ -493,7 +493,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-network-common_2.10;1.3.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->io.netty#netty-all;4.0.23.Final [compile->default(compile)]
 [info] Resolving io.netty#netty-all;4.0.23.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@47ea1ed9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20da844c
 [debug] sbt-chain: module revision found in cache: io.netty#netty-all;4.0.23.Final
 [debug] 	found io.netty#netty-all;4.0.23.Final in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->io.netty#netty-all;4.0.23.Final [compile->runtime]
@@ -501,7 +501,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->io.netty#netty-all;4.0.23.Final [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.spark-project.spark#unused;1.0.0 [compile->default(compile)]
 [info] Resolving org.spark-project.spark#unused;1.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@17a49d05
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13669626
 [debug] sbt-chain: module revision found in cache: org.spark-project.spark#unused;1.0.0
 [debug] 	found org.spark-project.spark#unused;1.0.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.spark-project.spark#unused;1.0.0 [compile->runtime]
@@ -509,7 +509,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.spark-project.spark#unused;1.0.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-network-shuffle_2.10;1.3.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-network-shuffle_2.10;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@fb5eca9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31ce448a
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-network-shuffle_2.10;1.3.0
 [debug] 	found org.apache.spark#spark-network-shuffle_2.10;1.3.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-network-shuffle_2.10;1.3.0 [compile->runtime]
@@ -517,7 +517,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-network-shuffle_2.10;1.3.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->net.java.dev.jets3t#jets3t;0.7.1 [compile->default(compile)]
 [info] Resolving net.java.dev.jets3t#jets3t;0.7.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@149913a3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5bc82987
 [debug] sbt-chain: module revision found in cache: net.java.dev.jets3t#jets3t;0.7.1
 [debug] 	found net.java.dev.jets3t#jets3t;0.7.1 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->net.java.dev.jets3t#jets3t;0.7.1 [compile->runtime]
@@ -525,7 +525,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->net.java.dev.jets3t#jets3t;0.7.1 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.curator#curator-recipes;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.curator#curator-recipes;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5e56eb12
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3787d70
 [debug] sbt-chain: module revision found in cache: org.apache.curator#curator-recipes;2.4.0
 [debug] 	found org.apache.curator#curator-recipes;2.4.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.curator#curator-recipes;2.4.0 [compile->runtime]
@@ -533,7 +533,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.curator#curator-recipes;2.4.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.curator#curator-framework;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.curator#curator-framework;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@593029ea
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@501fee8d
 [debug] sbt-chain: module revision found in cache: org.apache.curator#curator-framework;2.4.0
 [debug] 	found org.apache.curator#curator-framework;2.4.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.curator#curator-framework;2.4.0 [compile->runtime]
@@ -541,7 +541,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.curator#curator-framework;2.4.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.curator#curator-client;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.curator#curator-client;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1383f6d1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7c023b53
 [debug] sbt-chain: module revision found in cache: org.apache.curator#curator-client;2.4.0
 [debug] 	found org.apache.curator#curator-client;2.4.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.curator#curator-client;2.4.0 [compile->runtime]
@@ -549,7 +549,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.curator#curator-client;2.4.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.zookeeper#zookeeper;3.4.5 [compile->default(compile)]
 [info] Resolving org.apache.zookeeper#zookeeper;3.4.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b79c331
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c10b078
 [debug] sbt-chain: module revision found in cache: org.apache.zookeeper#zookeeper;3.4.5
 [debug] 	found org.apache.zookeeper#zookeeper;3.4.5 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.zookeeper#zookeeper;3.4.5 [compile->runtime]
@@ -557,7 +557,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.zookeeper#zookeeper;3.4.5 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->jline#jline;0.9.94 [compile->default(compile)]
 [info] Resolving jline#jline;0.9.94 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1f612c08
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37463623
 [debug] sbt-chain: module revision found in cache: jline#jline;0.9.94
 [debug] 	found jline#jline;0.9.94 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->jline#jline;0.9.94 [compile->runtime]
@@ -565,7 +565,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->jline#jline;0.9.94 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.google.guava#guava;14.0.1 [compile->default(compile)]
 [info] Resolving com.google.guava#guava;14.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@17e21f56
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31868355
 [debug] sbt-chain: module revision found in cache: com.google.guava#guava;14.0.1
 [debug] 	found com.google.guava#guava;14.0.1 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.google.guava#guava;14.0.1 [compile->runtime]
@@ -573,7 +573,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.google.guava#guava;14.0.1 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 [compile->default(compile)]
 [info] Resolving org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7676a56f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@393e4162
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016
 [debug] 	found org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 [compile->runtime]
@@ -581,7 +581,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.commons#commons-lang3;3.3.2 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-lang3;3.3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70cffe1d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@343d4e25
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-lang3;3.3.2
 [debug] 	found org.apache.commons#commons-lang3;3.3.2 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.commons#commons-lang3;3.3.2 [compile->runtime]
@@ -589,7 +589,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.commons#commons-lang3;3.3.2 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.commons#commons-math3;3.1.1 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-math3;3.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10a8951a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35e48b59
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-math3;3.1.1
 [debug] 	found org.apache.commons#commons-math3;3.1.1 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.commons#commons-math3;3.1.1 [compile->runtime]
@@ -597,7 +597,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.commons#commons-math3;3.1.1 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.10 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-api;1.7.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4534b0b1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38086712
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-api;1.7.10
 [debug] 	found org.slf4j#slf4j-api;1.7.10 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.10 [compile->runtime]
@@ -605,7 +605,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.10 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.slf4j#jul-to-slf4j;1.7.10 [compile->default(compile)]
 [info] Resolving org.slf4j#jul-to-slf4j;1.7.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7c2086b1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@635a3905
 [debug] sbt-chain: module revision found in cache: org.slf4j#jul-to-slf4j;1.7.10
 [debug] 	found org.slf4j#jul-to-slf4j;1.7.10 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.slf4j#jul-to-slf4j;1.7.10 [compile->runtime]
@@ -613,7 +613,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.slf4j#jul-to-slf4j;1.7.10 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.slf4j#jcl-over-slf4j;1.7.10 [compile->default(compile)]
 [info] Resolving org.slf4j#jcl-over-slf4j;1.7.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@77d96f08
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@bf5e85a
 [debug] sbt-chain: module revision found in cache: org.slf4j#jcl-over-slf4j;1.7.10
 [debug] 	found org.slf4j#jcl-over-slf4j;1.7.10 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.slf4j#jcl-over-slf4j;1.7.10 [compile->runtime]
@@ -621,7 +621,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.slf4j#jcl-over-slf4j;1.7.10 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.slf4j#slf4j-log4j12;1.7.10 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-log4j12;1.7.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@337a2c7d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@66afbc11
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-log4j12;1.7.10
 [debug] 	found org.slf4j#slf4j-log4j12;1.7.10 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.slf4j#slf4j-log4j12;1.7.10 [compile->runtime]
@@ -629,7 +629,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.slf4j#slf4j-log4j12;1.7.10 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.ning#compress-lzf;1.0.0 [compile->default(compile)]
 [info] Resolving com.ning#compress-lzf;1.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@936917e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@39ca842e
 [debug] sbt-chain: module revision found in cache: com.ning#compress-lzf;1.0.0
 [debug] 	found com.ning#compress-lzf;1.0.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.ning#compress-lzf;1.0.0 [compile->runtime]
@@ -637,7 +637,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.ning#compress-lzf;1.0.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.xerial.snappy#snappy-java;1.1.1.6 [compile->default(compile)]
 [info] Resolving org.xerial.snappy#snappy-java;1.1.1.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c7db724
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6fe60b50
 [debug] sbt-chain: module revision found in cache: org.xerial.snappy#snappy-java;1.1.1.6
 [debug] 	found org.xerial.snappy#snappy-java;1.1.1.6 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.xerial.snappy#snappy-java;1.1.1.6 [compile->runtime]
@@ -645,7 +645,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.xerial.snappy#snappy-java;1.1.1.6 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->net.jpountz.lz4#lz4;1.2.0 [compile->default(compile)]
 [info] Resolving net.jpountz.lz4#lz4;1.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@227be58a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@73501695
 [debug] sbt-chain: module revision found in cache: net.jpountz.lz4#lz4;1.2.0
 [debug] 	found net.jpountz.lz4#lz4;1.2.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->net.jpountz.lz4#lz4;1.2.0 [compile->runtime]
@@ -653,7 +653,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->net.jpountz.lz4#lz4;1.2.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.roaringbitmap#RoaringBitmap;0.4.5 [compile->default(compile)]
 [info] Resolving org.roaringbitmap#RoaringBitmap;0.4.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1637e513
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@46e6721e
 [debug] sbt-chain: module revision found in cache: org.roaringbitmap#RoaringBitmap;0.4.5
 [debug] 	found org.roaringbitmap#RoaringBitmap;0.4.5 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.roaringbitmap#RoaringBitmap;0.4.5 [compile->runtime]
@@ -661,7 +661,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.roaringbitmap#RoaringBitmap;0.4.5 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;2.2 [compile->default(compile)]
 [info] Resolving commons-net#commons-net;2.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e7f55ba
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d8c41c9
 [debug] sbt-chain: module revision found in cache: commons-net#commons-net;2.2
 [debug] 	found commons-net#commons-net;2.2 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;2.2 [compile->runtime]
@@ -669,7 +669,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;2.2 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.spark-project.akka#akka-remote_2.10;2.3.4-spark [compile->default(compile)]
 [info] Resolving org.spark-project.akka#akka-remote_2.10;2.3.4-spark ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ef2ff5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@455b1d57
 [debug] sbt-chain: module revision found in cache: org.spark-project.akka#akka-remote_2.10;2.3.4-spark
 [debug] 	found org.spark-project.akka#akka-remote_2.10;2.3.4-spark in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.spark-project.akka#akka-remote_2.10;2.3.4-spark [compile->runtime]
@@ -677,7 +677,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.spark-project.akka#akka-remote_2.10;2.3.4-spark [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.spark-project.akka#akka-actor_2.10;2.3.4-spark [compile->default(compile)]
 [info] Resolving org.spark-project.akka#akka-actor_2.10;2.3.4-spark ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e98249b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@439c509a
 [debug] sbt-chain: module revision found in cache: org.spark-project.akka#akka-actor_2.10;2.3.4-spark
 [debug] 	found org.spark-project.akka#akka-actor_2.10;2.3.4-spark in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.spark-project.akka#akka-actor_2.10;2.3.4-spark [compile->runtime]
@@ -685,7 +685,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.spark-project.akka#akka-actor_2.10;2.3.4-spark [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.typesafe#config;1.2.1 [compile->default(compile)]
 [info] Resolving com.typesafe#config;1.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4513657a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4980718d
 [debug] sbt-chain: module revision found in cache: com.typesafe#config;1.2.1
 [debug] 	found com.typesafe#config;1.2.1 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.typesafe#config;1.2.1 [compile->runtime]
@@ -693,7 +693,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.typesafe#config;1.2.1 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->io.netty#netty;3.8.0.Final [compile->default(compile)]
 [info] Resolving io.netty#netty;3.8.0.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3ceb4ae
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6084314f
 [debug] sbt-chain: module revision found in cache: io.netty#netty;3.8.0.Final
 [debug] 	found io.netty#netty;3.8.0.Final in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->io.netty#netty;3.8.0.Final [compile->runtime]
@@ -701,7 +701,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->io.netty#netty;3.8.0.Final [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.spark-project.protobuf#protobuf-java;2.5.0-spark [compile->default(compile)]
 [info] Resolving org.spark-project.protobuf#protobuf-java;2.5.0-spark ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@342eac7e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4931a16a
 [debug] sbt-chain: module revision found in cache: org.spark-project.protobuf#protobuf-java;2.5.0-spark
 [debug] 	found org.spark-project.protobuf#protobuf-java;2.5.0-spark in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.spark-project.protobuf#protobuf-java;2.5.0-spark [compile->runtime]
@@ -709,7 +709,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.spark-project.protobuf#protobuf-java;2.5.0-spark [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->default(compile)]
 [info] Resolving org.uncommons.maths#uncommons-maths;1.2.2a ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@9d75502
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70da8864
 [debug] sbt-chain: module revision found in cache: org.uncommons.maths#uncommons-maths;1.2.2a
 [debug] 	found org.uncommons.maths#uncommons-maths;1.2.2a in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->runtime]
@@ -717,7 +717,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.spark-project.akka#akka-slf4j_2.10;2.3.4-spark [compile->default(compile)]
 [info] Resolving org.spark-project.akka#akka-slf4j_2.10;2.3.4-spark ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@73242e0e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c67fcce
 [debug] sbt-chain: module revision found in cache: org.spark-project.akka#akka-slf4j_2.10;2.3.4-spark
 [debug] 	found org.spark-project.akka#akka-slf4j_2.10;2.3.4-spark in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.spark-project.akka#akka-slf4j_2.10;2.3.4-spark [compile->runtime]
@@ -725,7 +725,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.spark-project.akka#akka-slf4j_2.10;2.3.4-spark [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.json4s#json4s-jackson_2.10;3.2.10 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-jackson_2.10;3.2.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@440b5c1b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7c18bff6
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-jackson_2.10;3.2.10
 [debug] 	found org.json4s#json4s-jackson_2.10;3.2.10 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.json4s#json4s-jackson_2.10;3.2.10 [compile->runtime]
@@ -733,7 +733,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.json4s#json4s-jackson_2.10;3.2.10 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.json4s#json4s-core_2.10;3.2.10 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-core_2.10;3.2.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4fb62f54
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37337da9
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-core_2.10;3.2.10
 [debug] 	found org.json4s#json4s-core_2.10;3.2.10 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.json4s#json4s-core_2.10;3.2.10 [compile->runtime]
@@ -741,7 +741,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.json4s#json4s-core_2.10;3.2.10 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.json4s#json4s-ast_2.10;3.2.10 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-ast_2.10;3.2.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@eee36fa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@65ab735b
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-ast_2.10;3.2.10
 [debug] 	found org.json4s#json4s-ast_2.10;3.2.10 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.json4s#json4s-ast_2.10;3.2.10 [compile->runtime]
@@ -749,7 +749,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.json4s#json4s-ast_2.10;3.2.10 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.thoughtworks.paranamer#paranamer;2.6 [compile->default(compile)]
 [info] Resolving com.thoughtworks.paranamer#paranamer;2.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a82d4f9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38f11bf7
 [debug] sbt-chain: module revision found in cache: com.thoughtworks.paranamer#paranamer;2.6
 [debug] 	found com.thoughtworks.paranamer#paranamer;2.6 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.thoughtworks.paranamer#paranamer;2.6 [compile->runtime]
@@ -757,7 +757,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.thoughtworks.paranamer#paranamer;2.6 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scala-lang#scalap;2.10.0 [compile->default(compile)]
 [info] Resolving org.scala-lang#scalap;2.10.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@139f661e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@64983d88
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scalap;2.10.0
 [debug] 	found org.scala-lang#scalap;2.10.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scala-lang#scalap;2.10.0 [compile->runtime]
@@ -765,7 +765,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scala-lang#scalap;2.10.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.mesos#mesos;0.21.0 [compile->default(compile)]
 [info] Resolving org.apache.mesos#mesos;0.21.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@700f5e52
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7af549d8
 [debug] sbt-chain: module revision found in cache: org.apache.mesos#mesos;0.21.0
 [debug] 	found org.apache.mesos#mesos;0.21.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.mesos#mesos;0.21.0 [compile->runtime]
@@ -773,7 +773,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.mesos#mesos;0.21.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.clearspring.analytics#stream;2.7.0 [compile->default(compile)]
 [info] Resolving com.clearspring.analytics#stream;2.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@770f05a4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@69e0c7fb
 [debug] sbt-chain: module revision found in cache: com.clearspring.analytics#stream;2.7.0
 [debug] 	found com.clearspring.analytics#stream;2.7.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.clearspring.analytics#stream;2.7.0 [compile->runtime]
@@ -781,7 +781,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.clearspring.analytics#stream;2.7.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->io.dropwizard.metrics#metrics-core;3.1.0 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-core;3.1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@54cfd37c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4aa160e6
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-core;3.1.0
 [debug] 	found io.dropwizard.metrics#metrics-core;3.1.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->io.dropwizard.metrics#metrics-core;3.1.0 [compile->runtime]
@@ -789,7 +789,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->io.dropwizard.metrics#metrics-core;3.1.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->io.dropwizard.metrics#metrics-jvm;3.1.0 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-jvm;3.1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56fac08
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33ef3d1
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-jvm;3.1.0
 [debug] 	found io.dropwizard.metrics#metrics-jvm;3.1.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->io.dropwizard.metrics#metrics-jvm;3.1.0 [compile->runtime]
@@ -797,7 +797,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->io.dropwizard.metrics#metrics-jvm;3.1.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->io.dropwizard.metrics#metrics-json;3.1.0 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-json;3.1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@123705c8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f3f603f
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-json;3.1.0
 [debug] 	found io.dropwizard.metrics#metrics-json;3.1.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->io.dropwizard.metrics#metrics-json;3.1.0 [compile->runtime]
@@ -805,7 +805,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->io.dropwizard.metrics#metrics-json;3.1.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->io.dropwizard.metrics#metrics-graphite;3.1.0 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-graphite;3.1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@26d4704f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@52250fe6
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-graphite;3.1.0
 [debug] 	found io.dropwizard.metrics#metrics-graphite;3.1.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->io.dropwizard.metrics#metrics-graphite;3.1.0 [compile->runtime]
@@ -813,7 +813,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->io.dropwizard.metrics#metrics-graphite;3.1.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.fasterxml.jackson.core#jackson-databind;2.4.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-databind;2.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@99f7d3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@57e4784a
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-databind;2.4.4
 [debug] 	found com.fasterxml.jackson.core#jackson-databind;2.4.4 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.fasterxml.jackson.core#jackson-databind;2.4.4 [compile->runtime]
@@ -821,7 +821,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.fasterxml.jackson.core#jackson-databind;2.4.4 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.fasterxml.jackson.core#jackson-core;2.4.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-core;2.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1f734bda
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4efa4ca5
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-core;2.4.4
 [debug] 	found com.fasterxml.jackson.core#jackson-core;2.4.4 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.fasterxml.jackson.core#jackson-core;2.4.4 [compile->runtime]
@@ -829,7 +829,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.fasterxml.jackson.core#jackson-core;2.4.4 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.fasterxml.jackson.module#jackson-module-scala_2.10;2.4.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.module#jackson-module-scala_2.10;2.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@26f1b9d1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@18d6d872
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.module#jackson-module-scala_2.10;2.4.4
 [debug] 	found com.fasterxml.jackson.module#jackson-module-scala_2.10;2.4.4 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.fasterxml.jackson.module#jackson-module-scala_2.10;2.4.4 [compile->runtime]
@@ -837,7 +837,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.fasterxml.jackson.module#jackson-module-scala_2.10;2.4.4 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.10.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@411f5ae6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@282450f6
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.10.4
 [debug] 	found org.scala-lang#scala-reflect;2.10.4 in sbt-chain
 [debug] 	[2.10.4] org.scala-lang#scala-reflect;2.10.4
@@ -846,7 +846,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.fasterxml.jackson.core#jackson-annotations;2.4.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-annotations;2.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1592b1c7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13fdc68d
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-annotations;2.4.4
 [debug] 	found com.fasterxml.jackson.core#jackson-annotations;2.4.4 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.fasterxml.jackson.core#jackson-annotations;2.4.4 [compile->runtime]
@@ -854,7 +854,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.fasterxml.jackson.core#jackson-annotations;2.4.4 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.ivy#ivy;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.ivy#ivy;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ddaf26d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e11e568
 [debug] sbt-chain: module revision found in cache: org.apache.ivy#ivy;2.4.0
 [debug] 	found org.apache.ivy#ivy;2.4.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.ivy#ivy;2.4.0 [compile->runtime]
@@ -862,7 +862,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.ivy#ivy;2.4.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->oro#oro;2.0.8 [compile->default(compile)]
 [info] Resolving oro#oro;2.0.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@9950a91
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@462904f5
 [debug] sbt-chain: module revision found in cache: oro#oro;2.0.8
 [debug] 	found oro#oro;2.0.8 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->oro#oro;2.0.8 [compile->runtime]
@@ -870,7 +870,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->oro#oro;2.0.8 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.tachyonproject#tachyon-client;0.5.0 [compile->default(compile)]
 [info] Resolving org.tachyonproject#tachyon-client;0.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@75cd7b9f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d9c403f
 [debug] sbt-chain: module revision found in cache: org.tachyonproject#tachyon-client;0.5.0
 [debug] 	found org.tachyonproject#tachyon-client;0.5.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.tachyonproject#tachyon-client;0.5.0 [compile->runtime]
@@ -878,7 +878,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.tachyonproject#tachyon-client;0.5.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.tachyonproject#tachyon;0.5.0 [compile->default(compile)]
 [info] Resolving org.tachyonproject#tachyon;0.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22d72ee0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68496125
 [debug] sbt-chain: module revision found in cache: org.tachyonproject#tachyon;0.5.0
 [debug] 	found org.tachyonproject#tachyon;0.5.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.tachyonproject#tachyon;0.5.0 [compile->runtime]
@@ -886,7 +886,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.tachyonproject#tachyon;0.5.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-io#commons-io;2.4 [compile->default(compile)]
 [info] Resolving commons-io#commons-io;2.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@625c9f33
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@318a7510
 [debug] sbt-chain: module revision found in cache: commons-io#commons-io;2.4
 [debug] 	found commons-io#commons-io;2.4 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-io#commons-io;2.4 [compile->runtime]
@@ -894,7 +894,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-io#commons-io;2.4 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.spark-project#pyrolite;2.0.1 [compile->default(compile)]
 [info] Resolving org.spark-project#pyrolite;2.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@77264447
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a67415
 [debug] sbt-chain: module revision found in cache: org.spark-project#pyrolite;2.0.1
 [debug] 	found org.spark-project#pyrolite;2.0.1 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.spark-project#pyrolite;2.0.1 [compile->runtime]
@@ -902,7 +902,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.spark-project#pyrolite;2.0.1 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->net.sf.py4j#py4j;0.8.2.1 [compile->default(compile)]
 [info] Resolving net.sf.py4j#py4j;0.8.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61f055a7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5deec31a
 [debug] sbt-chain: module revision found in cache: net.sf.py4j#py4j;0.8.2.1
 [debug] 	found net.sf.py4j#py4j;0.8.2.1 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->net.sf.py4j#py4j;0.8.2.1 [compile->runtime]
@@ -910,9 +910,9 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->net.sf.py4j#py4j;0.8.2.1 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5287b12a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61b17e97
 [info] Resolving org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@5287b12a
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@61b17e97
 [debug] 		tried C:\Users\Daniel\.ivy2\local\org.apache.hadoop\hadoop-yarn-server-nodemanager\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.2.0/hadoop-yarn-server-nodemanager-2.2.0.pom
@@ -922,7 +922,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.2.0/hadoop-yarn-server-nodemanager-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.2.0/hadoop-yarn-server-nodemanager-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.2.0/hadoop-yarn-server-nodemanager-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0!hadoop-yarn-server-nodemanager.pom(pom.original) (394ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0!hadoop-yarn-server-nodemanager.pom(pom.original) (372ms)
 [info] Resolving org.apache.hadoop#hadoop-yarn-server;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn-server;2.2.0 {}
 [info] Resolving org.apache.hadoop#hadoop-yarn-server;2.2.0 ...
@@ -936,7 +936,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server;2.2.0!hadoop-yarn-server.pom(pom.original) (379ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server;2.2.0!hadoop-yarn-server.pom(pom.original) (361ms)
 [info] Resolving org.apache.hadoop#hadoop-yarn;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn;2.2.0
@@ -951,7 +951,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming_2.10;1.3.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-streaming_2.10;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@feaf29c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@51c051e9
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-streaming_2.10;1.3.0
 [debug] 	found org.apache.spark#spark-streaming_2.10;1.3.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming_2.10;1.3.0 [compile->runtime]
@@ -959,7 +959,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming_2.10;1.3.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-sql_2.10;1.3.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-sql_2.10;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@a083873
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@73849c0d
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-sql_2.10;1.3.0
 [debug] 	found org.apache.spark#spark-sql_2.10;1.3.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-sql_2.10;1.3.0 [compile->runtime]
@@ -967,7 +967,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-sql_2.10;1.3.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-catalyst_2.10;1.3.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-catalyst_2.10;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1c4c05e5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@17c7c845
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-catalyst_2.10;1.3.0
 [debug] 	found org.apache.spark#spark-catalyst_2.10;1.3.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-catalyst_2.10;1.3.0 [compile->runtime]
@@ -975,7 +975,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-catalyst_2.10;1.3.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.4 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-compiler;2.10.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@53fb5040
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60b79658
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.10.4
 [debug] 	found org.scala-lang#scala-compiler;2.10.4 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.4 [compile->runtime]
@@ -983,7 +983,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.4 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [compile->default(compile)]
 [info] Resolving org.scalamacros#quasiquotes_2.10;2.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34374d8f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1fcb7cc1
 [debug] sbt-chain: module revision found in cache: org.scalamacros#quasiquotes_2.10;2.0.1
 [debug] 	found org.scalamacros#quasiquotes_2.10;2.0.1 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [compile->runtime]
@@ -991,7 +991,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#parquet-column;1.6.0rc3 [compile->default(compile)]
 [info] Resolving com.twitter#parquet-column;1.6.0rc3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@190469a2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@25f9d45b
 [debug] sbt-chain: module revision found in cache: com.twitter#parquet-column;1.6.0rc3
 [debug] 	found com.twitter#parquet-column;1.6.0rc3 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#parquet-column;1.6.0rc3 [compile->runtime]
@@ -999,7 +999,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#parquet-column;1.6.0rc3 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#parquet-common;1.6.0rc3 [compile->default(compile)]
 [info] Resolving com.twitter#parquet-common;1.6.0rc3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@166fe936
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c45c4bc
 [debug] sbt-chain: module revision found in cache: com.twitter#parquet-common;1.6.0rc3
 [debug] 	found com.twitter#parquet-common;1.6.0rc3 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#parquet-common;1.6.0rc3 [compile->runtime]
@@ -1007,7 +1007,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#parquet-common;1.6.0rc3 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#parquet-encoding;1.6.0rc3 [compile->default(compile)]
 [info] Resolving com.twitter#parquet-encoding;1.6.0rc3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ceefa61
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7f38b028
 [debug] sbt-chain: module revision found in cache: com.twitter#parquet-encoding;1.6.0rc3
 [debug] 	found com.twitter#parquet-encoding;1.6.0rc3 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#parquet-encoding;1.6.0rc3 [compile->runtime]
@@ -1015,7 +1015,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#parquet-encoding;1.6.0rc3 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#parquet-generator;1.6.0rc3 [compile->default(compile)]
 [info] Resolving com.twitter#parquet-generator;1.6.0rc3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40a281fd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@132bb0fe
 [debug] sbt-chain: module revision found in cache: com.twitter#parquet-generator;1.6.0rc3
 [debug] 	found com.twitter#parquet-generator;1.6.0rc3 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#parquet-generator;1.6.0rc3 [compile->runtime]
@@ -1023,7 +1023,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#parquet-generator;1.6.0rc3 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-codec#commons-codec;1.5 [compile->default(compile)]
 [info] Resolving commons-codec#commons-codec;1.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1f613027
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@75628eef
 [debug] sbt-chain: module revision found in cache: commons-codec#commons-codec;1.5
 [debug] 	found commons-codec#commons-codec;1.5 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-codec#commons-codec;1.5 [compile->runtime]
@@ -1031,7 +1031,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-codec#commons-codec;1.5 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#parquet-hadoop;1.6.0rc3 [compile->default(compile)]
 [info] Resolving com.twitter#parquet-hadoop;1.6.0rc3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@46d2a099
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@26dbbba6
 [debug] sbt-chain: module revision found in cache: com.twitter#parquet-hadoop;1.6.0rc3
 [debug] 	found com.twitter#parquet-hadoop;1.6.0rc3 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#parquet-hadoop;1.6.0rc3 [compile->runtime]
@@ -1039,7 +1039,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#parquet-hadoop;1.6.0rc3 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#parquet-format;2.2.0-rc1 [compile->default(compile)]
 [info] Resolving com.twitter#parquet-format;2.2.0-rc1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4fbd7729
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e19cc04
 [debug] sbt-chain: module revision found in cache: com.twitter#parquet-format;2.2.0-rc1
 [debug] 	found com.twitter#parquet-format;2.2.0-rc1 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#parquet-format;2.2.0-rc1 [compile->runtime]
@@ -1047,7 +1047,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#parquet-format;2.2.0-rc1 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#parquet-jackson;1.6.0rc3 [compile->default(compile)]
 [info] Resolving com.twitter#parquet-jackson;1.6.0rc3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5d7da355
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@687a3e37
 [debug] sbt-chain: module revision found in cache: com.twitter#parquet-jackson;1.6.0rc3
 [debug] 	found com.twitter#parquet-jackson;1.6.0rc3 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#parquet-jackson;1.6.0rc3 [compile->runtime]
@@ -1055,7 +1055,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.twitter#parquet-jackson;1.6.0rc3 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-mapper-asl;1.9.11 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-mapper-asl;1.9.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f02b3ec
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@a482e9a
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-mapper-asl;1.9.11
 [debug] 	found org.codehaus.jackson#jackson-mapper-asl;1.9.11 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-mapper-asl;1.9.11 [compile->runtime]
@@ -1063,7 +1063,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-mapper-asl;1.9.11 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-core-asl;1.9.11 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-core-asl;1.9.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@74ec2803
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5e824bfb
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-core-asl;1.9.11
 [debug] 	found org.codehaus.jackson#jackson-core-asl;1.9.11 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-core-asl;1.9.11 [compile->runtime]
@@ -1071,7 +1071,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-core-asl;1.9.11 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.jodd#jodd-core;3.6.3 [compile->default(compile)]
 [info] Resolving org.jodd#jodd-core;3.6.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@492c1840
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7c3d43f8
 [debug] sbt-chain: module revision found in cache: org.jodd#jodd-core;3.6.3
 [debug] 	found org.jodd#jodd-core;3.6.3 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.jodd#jodd-core;3.6.3 [compile->runtime]
@@ -1079,7 +1079,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.jodd#jodd-core;3.6.3 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-graphx_2.10;1.3.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-graphx_2.10;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e743687
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4cea13e8
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-graphx_2.10;1.3.0
 [debug] 	found org.apache.spark#spark-graphx_2.10;1.3.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-graphx_2.10;1.3.0 [compile->runtime]
@@ -1087,7 +1087,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-graphx_2.10;1.3.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.jblas#jblas;1.2.3 [compile->default(compile)]
 [info] Resolving org.jblas#jblas;1.2.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@423ad2ec
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@78f4b92d
 [debug] sbt-chain: module revision found in cache: org.jblas#jblas;1.2.3
 [debug] 	found org.jblas#jblas;1.2.3 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.jblas#jblas;1.2.3 [compile->runtime]
@@ -1095,7 +1095,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.jblas#jblas;1.2.3 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scalanlp#breeze_2.10;0.11.1 [compile->default(compile)]
 [info] Resolving org.scalanlp#breeze_2.10;0.11.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20d079fa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@14503d4e
 [debug] sbt-chain: module revision found in cache: org.scalanlp#breeze_2.10;0.11.1
 [debug] 	found org.scalanlp#breeze_2.10;0.11.1 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scalanlp#breeze_2.10;0.11.1 [compile->runtime]
@@ -1103,7 +1103,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scalanlp#breeze_2.10;0.11.1 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scalanlp#breeze-macros_2.10;0.11.1 [compile->default(compile)]
 [info] Resolving org.scalanlp#breeze-macros_2.10;0.11.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11730cf
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@614a8b4e
 [debug] sbt-chain: module revision found in cache: org.scalanlp#breeze-macros_2.10;0.11.1
 [debug] 	found org.scalanlp#breeze-macros_2.10;0.11.1 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scalanlp#breeze-macros_2.10;0.11.1 [compile->runtime]
@@ -1111,7 +1111,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scalanlp#breeze-macros_2.10;0.11.1 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.github.fommil.netlib#core;1.1.2 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#core;1.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@53913885
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7dc3ab32
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#core;1.1.2
 [debug] 	found com.github.fommil.netlib#core;1.1.2 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.github.fommil.netlib#core;1.1.2 [compile->runtime]
@@ -1119,7 +1119,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.github.fommil.netlib#core;1.1.2 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->net.sourceforge.f2j#arpack_combined_all;0.1 [compile->default(compile)]
 [info] Resolving net.sourceforge.f2j#arpack_combined_all;0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@582c2823
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@28995069
 [debug] sbt-chain: module revision found in cache: net.sourceforge.f2j#arpack_combined_all;0.1
 [debug] 	found net.sourceforge.f2j#arpack_combined_all;0.1 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->net.sourceforge.f2j#arpack_combined_all;0.1 [compile->runtime]
@@ -1127,7 +1127,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->net.sourceforge.f2j#arpack_combined_all;0.1 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->net.sf.opencsv#opencsv;2.3 [compile->default(compile)]
 [info] Resolving net.sf.opencsv#opencsv;2.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e060d87
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@66f31ff1
 [debug] sbt-chain: module revision found in cache: net.sf.opencsv#opencsv;2.3
 [debug] 	found net.sf.opencsv#opencsv;2.3 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->net.sf.opencsv#opencsv;2.3 [compile->runtime]
@@ -1135,7 +1135,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->net.sf.opencsv#opencsv;2.3 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.github.rwl#jtransforms;2.4.0 [compile->default(compile)]
 [info] Resolving com.github.rwl#jtransforms;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@301e00ea
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30fc5761
 [debug] sbt-chain: module revision found in cache: com.github.rwl#jtransforms;2.4.0
 [debug] 	found com.github.rwl#jtransforms;2.4.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.github.rwl#jtransforms;2.4.0 [compile->runtime]
@@ -1143,7 +1143,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->com.github.rwl#jtransforms;2.4.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.spire-math#spire_2.10;0.7.4 [compile->default(compile)]
 [info] Resolving org.spire-math#spire_2.10;0.7.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3bcb4a8e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44396374
 [debug] sbt-chain: module revision found in cache: org.spire-math#spire_2.10;0.7.4
 [debug] 	found org.spire-math#spire_2.10;0.7.4 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.spire-math#spire_2.10;0.7.4 [compile->runtime]
@@ -1151,7 +1151,7 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.spire-math#spire_2.10;0.7.4 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.spire-math#spire-macros_2.10;0.7.4 [compile->default(compile)]
 [info] Resolving org.spire-math#spire-macros_2.10;0.7.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6049ac6d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3374091f
 [debug] sbt-chain: module revision found in cache: org.spire-math#spire-macros_2.10;0.7.4
 [debug] 	found org.spire-math#spire-macros_2.10;0.7.4 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.spire-math#spire-macros_2.10;0.7.4 [compile->runtime]
@@ -1159,28 +1159,36 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.spire-math#spire-macros_2.10;0.7.4 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-streaming-twitter_2.10;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50b46e6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13b93b88
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-streaming-twitter_2.10;1.3.0
 [debug] 	found org.apache.spark#spark-streaming-twitter_2.10;1.3.0 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [compile->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [compile->compile]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [compile->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile->default(compile)]
-[info] Resolving org.twitter4j#twitter4j-stream;3.0.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ad20724
-[debug] sbt-chain: module revision found in cache: org.twitter4j#twitter4j-stream;3.0.3
-[debug] 	found org.twitter4j#twitter4j-stream;3.0.3 in sbt-chain
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile->default(compile)]
-[info] Resolving org.twitter4j#twitter4j-core;3.0.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3b1c4327
-[debug] sbt-chain: module revision found in cache: org.twitter4j#twitter4j-core;3.0.3
-[debug] 	found org.twitter4j#twitter4j-core;3.0.3 in sbt-chain
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile->default(compile)]
+[info] Resolving org.twitter4j#twitter4j;4.0.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1491ecb8
+[debug] sbt-chain: module revision found in cache: org.twitter4j#twitter4j;4.0.0
+[debug] 	found org.twitter4j#twitter4j;4.0.0 in sbt-chain
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile->default(compile)]
+[info] Resolving org.twitter4j#twitter4j-core;4.0.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@653d2e15
+[debug] sbt-chain: module revision found in cache: org.twitter4j#twitter4j-core;4.0.0
+[debug] 	found org.twitter4j#twitter4j-core;4.0.0 in sbt-chain
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile->default(compile)]
+[info] Resolving org.twitter4j#twitter4j-stream;4.0.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e8f5461
+[debug] sbt-chain: module revision found in cache: org.twitter4j#twitter4j-stream;4.0.0
+[debug] 	found org.twitter4j#twitter4j-stream;4.0.0 in sbt-chain
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile->master]
 [debug] resolving dependencies for configuration 'runtime'
 [debug] == resolving dependencies for realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0 [runtime]
 [debug] == resolving dependencies for realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0 [compile]
@@ -1713,14 +1721,18 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [compile->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [compile->compile]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [compile->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->default(compile)]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->compile]
@@ -2249,17 +2261,21 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [runtime->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [runtime->compile]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [runtime->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [runtime->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [runtime->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [runtime->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [runtime->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [runtime->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [runtime->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [runtime->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [runtime->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [runtime->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [runtime->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [runtime->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [runtime->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [runtime->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [runtime->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [runtime->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [runtime->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [runtime->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [runtime->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [runtime->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [runtime->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [runtime->default(compile)]
 [info] Resolving commons-net#commons-net;3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@74762b9a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61b70060
 [debug] sbt-chain: module revision found in cache: commons-net#commons-net;3.1
 [debug] 	found commons-net#commons-net;3.1 in sbt-chain
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [runtime->runtime]
@@ -2802,14 +2818,18 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [compile->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [compile->compile]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [compile->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->default(compile)]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->compile]
@@ -3338,14 +3358,18 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [runtime->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [runtime->compile]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [runtime->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [runtime->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [runtime->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [runtime->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [runtime->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [runtime->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [runtime->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [runtime->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [runtime->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [runtime->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [runtime->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [runtime->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [runtime->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [runtime->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [runtime->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [runtime->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [runtime->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [runtime->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [runtime->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [runtime->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [runtime->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [runtime->default(compile)]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [runtime->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [runtime->compile]
@@ -3878,14 +3902,18 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [test->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [test->compile]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [test->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [test->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [test->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [test->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [test->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [test->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [test->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [test->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [test->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [test->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [test->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [test->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [test->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [test->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [test->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [test->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [test->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [test->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [test->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [test->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [test->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [test->default(compile)]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [test->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [test->compile]
@@ -4882,14 +4910,18 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [compile->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [compile->compile]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [compile->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile->master]
 [debug] == resolving dependencies for realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0 [optional]
 [debug] == resolving dependencies for realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0 [provided]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [provided->default(compile)]
@@ -5861,14 +5893,18 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [compile-internal->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [compile-internal->compile]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [compile-internal->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile-internal->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile-internal->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile-internal->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile-internal->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile-internal->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile-internal->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile-internal->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile-internal->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile-internal->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile-internal->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile-internal->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile-internal->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile-internal->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile-internal->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile-internal->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile-internal->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile-internal->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile-internal->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile-internal->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile-internal->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [compile-internal->default(compile)]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [compile-internal->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [compile-internal->compile]
@@ -6410,14 +6446,18 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [compile->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [compile->compile]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [compile->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->default(compile)]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->compile]
@@ -6946,14 +6986,18 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [runtime->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [runtime->compile]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [runtime->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [runtime->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [runtime->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [runtime->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [runtime->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [runtime->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [runtime->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [runtime->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [runtime->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [runtime->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [runtime->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [runtime->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [runtime->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [runtime->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [runtime->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [runtime->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [runtime->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [runtime->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [runtime->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [runtime->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [runtime->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [runtime->default(compile)]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [runtime->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [runtime->compile]
@@ -7487,14 +7531,18 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [runtime-internal->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [runtime-internal->compile]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [runtime-internal->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [runtime-internal->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [runtime-internal->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [runtime-internal->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [runtime-internal->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [runtime-internal->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [runtime-internal->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [runtime-internal->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [runtime-internal->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [runtime-internal->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [runtime-internal->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [runtime-internal->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [runtime-internal->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [runtime-internal->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [runtime-internal->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [runtime-internal->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [runtime-internal->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [runtime-internal->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [runtime-internal->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [runtime-internal->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [runtime-internal->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [runtime-internal->default(compile)]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [runtime-internal->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [runtime-internal->compile]
@@ -8037,14 +8085,18 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [compile->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [compile->compile]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [compile->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [compile->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [compile->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [compile->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [compile->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [compile->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->default(compile)]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->compile]
@@ -8573,14 +8625,18 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [runtime->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [runtime->compile]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [runtime->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [runtime->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [runtime->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [runtime->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [runtime->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [runtime->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [runtime->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [runtime->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [runtime->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [runtime->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [runtime->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [runtime->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [runtime->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [runtime->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [runtime->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [runtime->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [runtime->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [runtime->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [runtime->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [runtime->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [runtime->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [runtime->default(compile)]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [runtime->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [runtime->compile]
@@ -9113,14 +9169,18 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [test->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [test->compile]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [test->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [test->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [test->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [test->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [test->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [test->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [test->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [test->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [test->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [test->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [test->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [test->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [test->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [test->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [test->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [test->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [test->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [test->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [test->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [test->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [test->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [test->default(compile)]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [test->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [test->compile]
@@ -10096,14 +10156,18 @@
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [test-internal->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [test-internal->compile]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-twitter_2.10;1.3.0 [test-internal->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [test-internal->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [test-internal->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [test-internal->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;3.0.3 [test-internal->master]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [test-internal->default(compile)]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [test-internal->runtime]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [test-internal->compile]
-[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;3.0.3 [test-internal->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [test-internal->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [test-internal->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [test-internal->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j;4.0.0 [test-internal->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [test-internal->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [test-internal->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [test-internal->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-core;4.0.0 [test-internal->master]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [test-internal->default(compile)]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [test-internal->runtime]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [test-internal->compile]
+[debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->org.twitter4j#twitter4j-stream;4.0.0 [test-internal->master]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [test-internal->default(compile)]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [test-internal->runtime]
 [debug] == resolving dependencies realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [test-internal->compile]
@@ -10414,8 +10478,8 @@
 [debug] 	[NOT REQUIRED] io.dropwizard.metrics#metrics-json;3.1.0!metrics-json.jar(src)
 [debug] 	[NOT REQUIRED] io.dropwizard.metrics#metrics-json;3.1.0!metrics-json.jar
 [debug] 	[NOT REQUIRED] io.dropwizard.metrics#metrics-graphite;3.1.0!metrics-graphite.jar(doc)
-[debug] 	[NOT REQUIRED] io.dropwizard.metrics#metrics-graphite;3.1.0!metrics-graphite.jar(src)
 [debug] 	[NOT REQUIRED] io.dropwizard.metrics#metrics-graphite;3.1.0!metrics-graphite.jar
+[debug] 	[NOT REQUIRED] io.dropwizard.metrics#metrics-graphite;3.1.0!metrics-graphite.jar(src)
 [debug] 	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-databind;2.4.4!jackson-databind.jar(src)
 [debug] 	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-databind;2.4.4!jackson-databind.jar
 [debug] 	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-databind;2.4.4!jackson-databind.jar(doc)
@@ -10531,12 +10595,72 @@
 [debug] 	[NOT REQUIRED] org.apache.spark#spark-streaming-twitter_2.10;1.3.0!spark-streaming-twitter_2.10.jar(doc)
 [debug] 	[NOT REQUIRED] org.apache.spark#spark-streaming-twitter_2.10;1.3.0!spark-streaming-twitter_2.10.jar
 [debug] 	[NOT REQUIRED] org.apache.spark#spark-streaming-twitter_2.10;1.3.0!spark-streaming-twitter_2.10.jar(src)
-[debug] 	[NOT REQUIRED] org.twitter4j#twitter4j-stream;3.0.3!twitter4j-stream.jar
-[debug] 	[NOT REQUIRED] org.twitter4j#twitter4j-stream;3.0.3!twitter4j-stream.jar(src)
-[debug] 	[NOT REQUIRED] org.twitter4j#twitter4j-stream;3.0.3!twitter4j-stream.jar(doc)
-[debug] 	[NOT REQUIRED] org.twitter4j#twitter4j-core;3.0.3!twitter4j-core.jar
-[debug] 	[NOT REQUIRED] org.twitter4j#twitter4j-core;3.0.3!twitter4j-core.jar(src)
-[debug] 	[NOT REQUIRED] org.twitter4j#twitter4j-core;3.0.3!twitter4j-core.jar(doc)
+[debug] 		tried C:\Users\Daniel\.ivy2\local\org.twitter4j\twitter4j\4.0.0\docs\twitter4j-javadoc.jar
+[debug] 		tried C:\Users\Daniel\.ivy2\local\org.twitter4j\twitter4j\4.0.0\srcs\twitter4j-sources.jar
+[debug] 		tried C:\Users\Daniel\.ivy2\local\org.twitter4j\twitter4j\4.0.0\jars\twitter4j.jar
+[debug] 		tried https://repo1.maven.org/maven2/org/twitter4j/twitter4j/4.0.0/twitter4j-4.0.0-javadoc.jar
+[debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/twitter4j/twitter4j/4.0.0/twitter4j-4.0.0-javadoc.jar
+[debug] 		tried https://repo1.maven.org/maven2/org/twitter4j/twitter4j/4.0.0/twitter4j-4.0.0-sources.jar
+[debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/twitter4j/twitter4j/4.0.0/twitter4j-4.0.0-sources.jar
+[debug] 		tried https://repo1.maven.org/maven2/org/twitter4j/twitter4j/4.0.0/twitter4j-4.0.0.jar
+[debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/twitter4j/twitter4j/4.0.0/twitter4j-4.0.0.jar
+[debug] 		tried http://repo.akka.io/releases/org/twitter4j/twitter4j/4.0.0/twitter4j-4.0.0-javadoc.jar
+[debug] CLIENT ERROR: Not Found url=http://repo.akka.io/releases/org/twitter4j/twitter4j/4.0.0/twitter4j-4.0.0-javadoc.jar
+[debug] 		tried http://repo.akka.io/releases/org/twitter4j/twitter4j/4.0.0/twitter4j-4.0.0-sources.jar
+[debug] CLIENT ERROR: Not Found url=http://repo.akka.io/releases/org/twitter4j/twitter4j/4.0.0/twitter4j-4.0.0-sources.jar
+[debug] 		tried http://repo.akka.io/releases/org/twitter4j/twitter4j/4.0.0/twitter4j-4.0.0.jar
+[debug] CLIENT ERROR: Not Found url=http://repo.akka.io/releases/org/twitter4j/twitter4j/4.0.0/twitter4j-4.0.0.jar
+[warn] 	[FAILED     ] org.twitter4j#twitter4j;4.0.0!twitter4j.jar(doc):  (0ms)
+[warn] ==== local: tried
+[warn]   C:\Users\Daniel\.ivy2\local\org.twitter4j\twitter4j\4.0.0\docs\twitter4j-javadoc.jar
+[warn] ==== public: tried
+[warn]   https://repo1.maven.org/maven2/org/twitter4j/twitter4j/4.0.0/twitter4j-4.0.0-javadoc.jar
+[warn] ==== Akka Repository: tried
+[warn]   http://repo.akka.io/releases/org/twitter4j/twitter4j/4.0.0/twitter4j-4.0.0-javadoc.jar
+[warn] 	[FAILED     ] org.twitter4j#twitter4j;4.0.0!twitter4j.jar(src):  (0ms)
+[warn] ==== local: tried
+[warn]   C:\Users\Daniel\.ivy2\local\org.twitter4j\twitter4j\4.0.0\srcs\twitter4j-sources.jar
+[warn] ==== public: tried
+[warn]   https://repo1.maven.org/maven2/org/twitter4j/twitter4j/4.0.0/twitter4j-4.0.0-sources.jar
+[warn] ==== Akka Repository: tried
+[warn]   http://repo.akka.io/releases/org/twitter4j/twitter4j/4.0.0/twitter4j-4.0.0-sources.jar
+[warn] 	[FAILED     ] org.twitter4j#twitter4j;4.0.0!twitter4j.jar:  (0ms)
+[warn] ==== local: tried
+[warn]   C:\Users\Daniel\.ivy2\local\org.twitter4j\twitter4j\4.0.0\jars\twitter4j.jar
+[warn] ==== public: tried
+[warn]   https://repo1.maven.org/maven2/org/twitter4j/twitter4j/4.0.0/twitter4j-4.0.0.jar
+[warn] ==== Akka Repository: tried
+[warn]   http://repo.akka.io/releases/org/twitter4j/twitter4j/4.0.0/twitter4j-4.0.0.jar
+[debug] 		tried C:\Users\Daniel\.ivy2\local\org.twitter4j\twitter4j-core\4.0.0\docs\twitter4j-core-javadoc.jar
+[debug] 	[NOT REQUIRED] org.twitter4j#twitter4j-core;4.0.0!twitter4j-core.jar
+[debug] 		tried C:\Users\Daniel\.ivy2\local\org.twitter4j\twitter4j-core\4.0.0\srcs\twitter4j-core-sources.jar
+[debug] 		tried https://repo1.maven.org/maven2/org/twitter4j/twitter4j-core/4.0.0/twitter4j-core-4.0.0-javadoc.jar
+[info] downloading https://repo1.maven.org/maven2/org/twitter4j/twitter4j-core/4.0.0/twitter4j-core-4.0.0-javadoc.jar ...
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/twitter4j/twitter4j-core/4.0.0/twitter4j-core-4.0.0-javadoc.jar
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/twitter4j/twitter4j-core/4.0.0/twitter4j-core-4.0.0-javadoc.jar.sha1
+[debug] sha1 OK for https://repo1.maven.org/maven2/org/twitter4j/twitter4j-core/4.0.0/twitter4j-core-4.0.0-javadoc.jar
+[info] 	[SUCCESSFUL ] org.twitter4j#twitter4j-core;4.0.0!twitter4j-core.jar(doc) (1450ms)
+[debug] 		tried https://repo1.maven.org/maven2/org/twitter4j/twitter4j-core/4.0.0/twitter4j-core-4.0.0-sources.jar
+[info] downloading https://repo1.maven.org/maven2/org/twitter4j/twitter4j-core/4.0.0/twitter4j-core-4.0.0-sources.jar ...
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/twitter4j/twitter4j-core/4.0.0/twitter4j-core-4.0.0-sources.jar
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/twitter4j/twitter4j-core/4.0.0/twitter4j-core-4.0.0-sources.jar.sha1
+[debug] sha1 OK for https://repo1.maven.org/maven2/org/twitter4j/twitter4j-core/4.0.0/twitter4j-core-4.0.0-sources.jar
+[info] 	[SUCCESSFUL ] org.twitter4j#twitter4j-core;4.0.0!twitter4j-core.jar(src) (913ms)
+[debug] 		tried C:\Users\Daniel\.ivy2\local\org.twitter4j\twitter4j-stream\4.0.0\docs\twitter4j-stream-javadoc.jar
+[debug] 		tried C:\Users\Daniel\.ivy2\local\org.twitter4j\twitter4j-stream\4.0.0\srcs\twitter4j-stream-sources.jar
+[debug] 	[NOT REQUIRED] org.twitter4j#twitter4j-stream;4.0.0!twitter4j-stream.jar
+[debug] 		tried https://repo1.maven.org/maven2/org/twitter4j/twitter4j-stream/4.0.0/twitter4j-stream-4.0.0-javadoc.jar
+[info] downloading https://repo1.maven.org/maven2/org/twitter4j/twitter4j-stream/4.0.0/twitter4j-stream-4.0.0-javadoc.jar ...
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/twitter4j/twitter4j-stream/4.0.0/twitter4j-stream-4.0.0-javadoc.jar
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/twitter4j/twitter4j-stream/4.0.0/twitter4j-stream-4.0.0-javadoc.jar.sha1
+[debug] sha1 OK for https://repo1.maven.org/maven2/org/twitter4j/twitter4j-stream/4.0.0/twitter4j-stream-4.0.0-javadoc.jar
+[info] 	[SUCCESSFUL ] org.twitter4j#twitter4j-stream;4.0.0!twitter4j-stream.jar(doc) (791ms)
+[debug] 		tried https://repo1.maven.org/maven2/org/twitter4j/twitter4j-stream/4.0.0/twitter4j-stream-4.0.0-sources.jar
+[info] downloading https://repo1.maven.org/maven2/org/twitter4j/twitter4j-stream/4.0.0/twitter4j-stream-4.0.0-sources.jar ...
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/twitter4j/twitter4j-stream/4.0.0/twitter4j-stream-4.0.0-sources.jar
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/twitter4j/twitter4j-stream/4.0.0/twitter4j-stream-4.0.0-sources.jar.sha1
+[debug] sha1 OK for https://repo1.maven.org/maven2/org/twitter4j/twitter4j-stream/4.0.0/twitter4j-stream-4.0.0-sources.jar
+[info] 	[SUCCESSFUL ] org.twitter4j#twitter4j-stream;4.0.0!twitter4j-stream.jar(src) (857ms)
 [debug] 	[NOT REQUIRED] commons-net#commons-net;3.1!commons-net.jar(src)
 [debug] 	[NOT REQUIRED] commons-net#commons-net;3.1!commons-net.jar
 [debug] 	[NOT REQUIRED] commons-net#commons-net;3.1!commons-net.jar(doc)
@@ -10550,7 +10674,15 @@
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar(doc)
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar(doc)
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar(src)
-[debug] :: resolution report :: resolve 13493ms :: artifacts dl 503ms
+[debug] :: resolution report :: resolve 15217ms :: artifacts dl 5836ms
+[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+[warn] 	::              FAILED DOWNLOADS            ::
+[warn] 	:: ^ see resolution messages for details  ^ ::
+[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+[warn] 	:: org.twitter4j#twitter4j;4.0.0!twitter4j.jar(doc)
+[warn] 	:: org.twitter4j#twitter4j;4.0.0!twitter4j.jar(src)
+[warn] 	:: org.twitter4j#twitter4j;4.0.0!twitter4j.jar
+[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
 [debug] 	report for realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0 compile produced in C:\Users\Daniel\Documents\1 current projects\Bachelorcode\RealtimeAnalyzer\target\resolution-cache\reports\realtime-analyzer-realtime-analyzer$sources_javadoc_2.10-compile.xml
 [debug] 	report for realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0 runtime produced in C:\Users\Daniel\Documents\1 current projects\Bachelorcode\RealtimeAnalyzer\target\resolution-cache\reports\realtime-analyzer-realtime-analyzer$sources_javadoc_2.10-runtime.xml
 [debug] 	report for realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0 test produced in C:\Users\Daniel\Documents\1 current projects\Bachelorcode\RealtimeAnalyzer\target\resolution-cache\reports\realtime-analyzer-realtime-analyzer$sources_javadoc_2.10-test.xml
@@ -10564,4 +10696,4 @@
 [debug] 	report for realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0 docs produced in C:\Users\Daniel\Documents\1 current projects\Bachelorcode\RealtimeAnalyzer\target\resolution-cache\reports\realtime-analyzer-realtime-analyzer$sources_javadoc_2.10-docs.xml
 [debug] 	report for realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0 pom produced in C:\Users\Daniel\Documents\1 current projects\Bachelorcode\RealtimeAnalyzer\target\resolution-cache\reports\realtime-analyzer-realtime-analyzer$sources_javadoc_2.10-pom.xml
 [debug] 	report for realtime-analyzer#realtime-analyzer$sources_javadoc_2.10;1.0 scala-tool produced in C:\Users\Daniel\Documents\1 current projects\Bachelorcode\RealtimeAnalyzer\target\resolution-cache\reports\realtime-analyzer-realtime-analyzer$sources_javadoc_2.10-scala-tool.xml
-[debug] 	resolve done (13493ms resolve - 503ms download)
+[debug] 	resolve done (15217ms resolve - 5836ms download)
