@@ -23,7 +23,7 @@
 [debug] == resolving dependencies for default#realtimeanalyzer-build;0.1-SNAPSHOT [provided]
 [debug] == resolving dependencies default#realtimeanalyzer-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [provided->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.10.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@685c1508
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@54e38bf9
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4
 [debug] 	found org.scala-lang#scala-library;2.10.4 in sbt-chain
 [debug] 	[2.10.4] org.scala-lang#scala-library;2.10.4
@@ -1777,7 +1777,7 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 1706ms :: artifacts dl 95ms
+[debug] :: resolution report :: resolve 1729ms :: artifacts dl 74ms
 [debug] 	report for default#realtimeanalyzer-build;0.1-SNAPSHOT compile produced in C:\Users\Daniel\Documents\1 current projects\Bachelorcode\RealtimeAnalyzer\project\target\resolution-cache\reports\default-realtimeanalyzer-build-compile.xml
 [debug] 	report for default#realtimeanalyzer-build;0.1-SNAPSHOT runtime produced in C:\Users\Daniel\Documents\1 current projects\Bachelorcode\RealtimeAnalyzer\project\target\resolution-cache\reports\default-realtimeanalyzer-build-runtime.xml
 [debug] 	report for default#realtimeanalyzer-build;0.1-SNAPSHOT test produced in C:\Users\Daniel\Documents\1 current projects\Bachelorcode\RealtimeAnalyzer\project\target\resolution-cache\reports\default-realtimeanalyzer-build-test.xml
@@ -1791,5 +1791,5 @@
 [debug] 	report for default#realtimeanalyzer-build;0.1-SNAPSHOT docs produced in C:\Users\Daniel\Documents\1 current projects\Bachelorcode\RealtimeAnalyzer\project\target\resolution-cache\reports\default-realtimeanalyzer-build-docs.xml
 [debug] 	report for default#realtimeanalyzer-build;0.1-SNAPSHOT pom produced in C:\Users\Daniel\Documents\1 current projects\Bachelorcode\RealtimeAnalyzer\project\target\resolution-cache\reports\default-realtimeanalyzer-build-pom.xml
 [debug] 	report for default#realtimeanalyzer-build;0.1-SNAPSHOT scala-tool produced in C:\Users\Daniel\Documents\1 current projects\Bachelorcode\RealtimeAnalyzer\project\target\resolution-cache\reports\default-realtimeanalyzer-build-scala-tool.xml
-[debug] 	resolve done (1706ms resolve - 95ms download)
+[debug] 	resolve done (1729ms resolve - 74ms download)
 [info] Done updating.
