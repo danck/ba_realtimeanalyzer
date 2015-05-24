@@ -76,18 +76,19 @@ object RealtimeAnalyzer {
       stream.map(status => (
         status.getText.split(" ") // TODO: bessere filter?
           .map(word =>
-            scores.apply(hashingTF.indexOf(word.toLowerCase))).sum
+            scores.apply(hashingTF.indexOf(word.toLowerCase))).reduce(_ + _)
         , status)
       )
     }
 
     scoredTweets.foreachRDD(rdd => {
       println("Next RDD")
-      rdd.foreach { case (score, status) => {
+      rdd.foreach { println(_)
+        //case (score, status) => {
         //if (score > 0)
-          println("\n###### Score " + score + "######\n" + status.getText)
+        //  println("\n###### Score " + score + "######\n" + status.getText)
       }}
-    })
+    )
 
 
 
