@@ -70,6 +70,8 @@ object RealtimeAnalyzer {
     //  stream.flatMap(status => status.getText.split(" ").filter(_.startsWith("#")))
     //}
 
+    val hashingTF = new HashingTF()
+
     val scoredTweets = {
       stream.map(status => (
         status.getText.split(" ") // TODO: bessere filter?
