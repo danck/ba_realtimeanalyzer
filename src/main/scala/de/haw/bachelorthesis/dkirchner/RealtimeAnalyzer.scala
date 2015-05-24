@@ -62,13 +62,6 @@ object RealtimeAnalyzer {
     val ois = new ObjectInputStream(new FileInputStream("/tmp/tfidf"))
     val scores = ois.readObject.asInstanceOf[Vector]
     ois.close
-    // (4) print the object that was read back in
-    //scores.take(100).foreach(vector =>
-    //println("After: Value for \"Spark\" " + vector.apply(hashingTF.indexOf("Spark".toLowerCase))))
-
-    //val hashTags = {
-    //  stream.flatMap(status => status.getText.split(" ").filter(_.startsWith("#")))
-    //}
 
     val hashingTF = new HashingTF()
 
