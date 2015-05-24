@@ -63,7 +63,7 @@ object RealtimeAnalyzer {
     val scores = ois.readObject.asInstanceOf[Vector]
     ois.close
 
-    val hashingTF = new HashingTF(2^30)
+    val hashingTF = new HashingTF(1 << 30)
 
     val scoredTweets = {
       stream.map(status => (
