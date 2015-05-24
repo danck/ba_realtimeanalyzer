@@ -22,6 +22,10 @@ import org.apache.spark.SparkConf
 
 package de.haw.bachelorthesis.dkirchner {
 
+import java.io.{FileInputStream, ObjectInputStream}
+import org.apache.spark.mllib._
+import org.apache.spark.mllib.linalg.Vector
+
 
 /**
  * Calculates popular hashtags (topics) over sliding 10 and 60 second windows from a Twitter
@@ -51,15 +55,40 @@ object RealtimeAnalyzer {
     System.setProperty("twitter4j.oauth.accessToken", accessToken)
     System.setProperty("twitter4j.oauth.accessTokenSecret", accessTokenSecret)
 
-    val sparkConf = new SparkConf().setAppName("TwitterPopularTags")
-    val ssc = new StreamingContext(sparkConf, Seconds(2))
+    val sparkConf = new SparkConf().setAppName("Model Builder")
+    val ssc = new StreamingContext(sparkConf, Seconds(5))
     val stream = TwitterUtils.createStream(ssc, None, filters)
 
-    val hashTags = {
-      stream.flatMap(status => status.getText.split(" ").filter(_.startsWith("#")))
+
+    val ois = new ObjectInputStream(new FileInputStream("/tmp/tfidf"))
+    val scores = ois.readObject.asInstanceOf[Vector]
+    ois.close
+    // (4) print the object that was read back in
+    //scores.take(100).foreach(vector =>
+    //println("After: Value for \"Spark\" " + vector.apply(hashingTF.indexOf("Spark".toLowerCase))))
+
+    //val hashTags = {
+    //  stream.flatMap(status => status.getText.split(" ").filter(_.startsWith("#")))
+    //}
+
+    val scoredTweets = {
+      stream.map(status => (
+        status.getText.split(" ") // TODO: bessere filter?
+          .map(word =>
+            scores.apply(hashingTF.indexOf(word.toLowerCase))).sum
+        , status)
+      ).transform(_.sortByKey())
     }
 
-    val topCounts60 = hashTags.map((_, 1)).reduceByKeyAndWindow(_ + _, Seconds(60))
+    scoredTweets.foreachRDD(rdd => {
+      val topList = rdd.take(10)
+      println("\nRelevant Tweets in last 60 seconds (%s total):".format(rdd.count()))
+      topList.foreach { case (score, status) => println("%s (%s tweets)".format(score, status.getText)) }
+    })
+
+
+
+    /*val topCounts60 = hashTags.map((_, 1)).reduceByKeyAndWindow(_ + _, Seconds(60))
       .map { case (topic, count) => (count, topic) }
       .transform(_.sortByKey(false))
 
@@ -79,7 +108,7 @@ object RealtimeAnalyzer {
       val topList = rdd.take(10)
       println("\nPopular topics in last 10 seconds (%s total):".format(rdd.count()))
       topList.foreach { case (count, tag) => println("%s (%s tweets)".format(tag, count)) }
-    })
+    })*/
 
     ssc.start()
     ssc.awaitTermination()
