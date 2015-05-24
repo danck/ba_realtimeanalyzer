@@ -23,9 +23,8 @@ import org.apache.spark.SparkConf
 package de.haw.bachelorthesis.dkirchner {
 
 import java.io.{FileInputStream, ObjectInputStream}
-import org.apache.spark.mllib._
-import org.apache.spark.mllib.linalg.Vector
-
+import org.apache.spark.mllib.feature.{IDF, HashingTF}
+import org.apache.spark.mllib.linalg.{SparseVector, Vectors, Vector}
 
 /**
  * Calculates popular hashtags (topics) over sliding 10 and 60 second windows from a Twitter
