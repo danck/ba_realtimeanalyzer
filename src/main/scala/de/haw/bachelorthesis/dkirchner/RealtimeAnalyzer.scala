@@ -78,13 +78,14 @@ object RealtimeAnalyzer {
           .map(word =>
             scores.apply(hashingTF.indexOf(word.toLowerCase))).sum
         , status)
-      ).transform(_.sortByKey())
+      )
     }
 
     scoredTweets.foreachRDD(rdd => {
-      val topList = rdd.take(10)
-      println("\nRelevant Tweets in last 60 seconds (%s total):".format(rdd.count()))
-      topList.foreach { case (score, status) => println("%s (%s tweets)".format(score, status.getText)) }
+      rdd.foreach { case (score, status) => {
+        if (score > 0)
+          println("Score " + score + ":\n" + status.getText)
+      }}
     })
 
 
