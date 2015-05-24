@@ -77,7 +77,7 @@ object RealtimeAnalyzer {
         status.getText.split(" ") // TODO: bessere filter?
           .map(word =>
             scores.apply(hashingTF.indexOf(word.toLowerCase))).reduce(_ + _)
-          / status.getText().split(" ").count(_ => true) //TODO optimieren, schöner machen
+          / status.getText().split(" ").length //TODO optimieren, schöner machen
         , status)
       ).transform(_.sortByKey())
     }
