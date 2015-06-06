@@ -1,37 +1,38 @@
 /*
- * Licensed to the Apache Software Foundation (ASF) under one or more
- * contributor license agreements.  See the NOTICE file distributed with
- * this work for additional information regarding copyright ownership.
- * The ASF licenses this file to You under the Apache License, Version 2.0
- * (the "License"); you may not use this file except in compliance with
- * the License.  You may obtain a copy of the License at
+ * This file is part of my bachelor thesis.
  *
- *    http://www.apache.org/licenses/LICENSE-2.0
+ * Copyright 2015 Daniel Kirchner <daniel.kirchner1@haw-hamburg.de>
  *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU Library General Public License as
+ * published by the Free Software Foundation; either version 2 of the
+ * License, or (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public
+ * License along with this program; if not, write to the
+ * Free Software Foundation, Inc.,
+ * 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
  */
-
-import org.apache.spark.streaming.{Seconds, StreamingContext}
-import org.apache.spark.SparkContext._
-import org.apache.spark.streaming.twitter._
-import org.apache.spark.SparkConf
 
 package de.haw.bachelorthesis.dkirchner {
 
 import java.io.{FileInputStream, ObjectInputStream}
 import org.apache.spark.mllib.feature.{IDF, HashingTF}
 import org.apache.spark.mllib.linalg.{SparseVector, Vectors, Vector}
+import org.apache.spark.streaming.{Seconds, StreamingContext}
+import org.apache.spark.SparkContext._
+import org.apache.spark.streaming.twitter._
+import org.apache.spark.SparkConf
 
 /**
- * Calculates popular hashtags (topics) over sliding 10 and 60 second windows from a Twitter
- * stream. The stream is instantiated with credentials and optionally filters supplied by the
- * command line arguments.
+ * Analyzes a stream of tweets by scoring each by relevant words
+ * according to an externally fed relevance vector
  *
- * Run this on your local machine as
  *
  */
 object RealtimeAnalyzer {
@@ -45,10 +46,8 @@ object RealtimeAnalyzer {
     //StreamingExamples.setStreamingLogLevels()
 
     val Array(consumerKey, consumerSecret, accessToken, accessTokenSecret) = args.take(4)
-    val filters = args.takeRight(args.length - 4)
+    //val filters = args.takeRight(args.length - 4)
 
-    // Set the system properties so that Twitter4j library used by twitter stream
-    // can use them to generat OAuth credentials
     System.setProperty("twitter4j.oauth.consumerKey", consumerKey)
     System.setProperty("twitter4j.oauth.consumerSecret", consumerSecret)
     System.setProperty("twitter4j.oauth.accessToken", accessToken)
@@ -58,12 +57,11 @@ object RealtimeAnalyzer {
     val ssc = new StreamingContext(sparkConf, Seconds(5))
     val stream = TwitterUtils.createStream(ssc, None, filters)
 
-
     val ois = new ObjectInputStream(new FileInputStream("/tmp/tfidf"))
     val scores = ois.readObject.asInstanceOf[Vector]
-    ois.close
+    ois.close()
 
-    val hashingTF = new HashingTF(1 << 30)
+    val hashingTF = new HashingTF(1 << 20)
 
     val scoredTweets = {
       stream.map(status => (

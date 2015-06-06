@@ -4,7 +4,7 @@
 		module="realtime-analyzer$sources_javadoc_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20150523182633"
+		publication="20150606091018"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
