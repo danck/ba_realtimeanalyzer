@@ -53,6 +53,14 @@ object RealtimeAnalyzer {
     System.setProperty("twitter4j.oauth.accessToken", accessToken)
     System.setProperty("twitter4j.oauth.accessTokenSecret", accessTokenSecret)
 
+    // Debug
+    println("consumer key: " + consumerKey + "\n" +
+    "consumer secret: " + consumerSecret  + "\n" +
+    "access token: " + accessToken + "\n" +
+    "access token secret: " + accessTokenSecret)
+
+    System.exit(0)
+
     val sparkConf = new SparkConf().setAppName("Model Builder")
     val ssc = new StreamingContext(sparkConf, Seconds(5))
     val stream = TwitterUtils.createStream(ssc, None)
