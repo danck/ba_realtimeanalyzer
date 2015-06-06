@@ -83,12 +83,14 @@ object RealtimeAnalyzer {
       )//.transform(_.sortByKey())
     }
 
+    val tweetSink = new StringBuilder
     scoredTweets.foreachRDD(rdd => {
       println("Next RDD")
-      rdd.take(10).foreach { elem => {
+      rdd.foreach { elem => {
         if (elem._1 > 1)
-          println("\nScore: " + elem._1 + "\nText:\n" + elem._2.getText)
+          tweetSink.append("\nScore: " + elem._1 + "\nText:\n" + elem._2.getText + "\n")
       }}
+      println(tweetSink)
         //case (score, status) => {
         //if (score > 0)
         //  println("\n###### Score " + score + "######\n" + status.getText)
