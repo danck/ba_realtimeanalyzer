@@ -55,7 +55,7 @@ object RealtimeAnalyzer {
 
     val sparkConf = new SparkConf().setAppName("Model Builder")
     val ssc = new StreamingContext(sparkConf, Seconds(5))
-    val stream = TwitterUtils.createStream(ssc, None, filters)
+    val stream = TwitterUtils.createStream(ssc, None)
 
     val ois = new ObjectInputStream(new FileInputStream("/tmp/tfidf"))
     val scores = ois.readObject.asInstanceOf[Vector]
