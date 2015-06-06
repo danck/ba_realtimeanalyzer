@@ -86,7 +86,7 @@ object RealtimeAnalyzer {
     scoredTweets.foreachRDD(rdd => {
       println("Next RDD")
       rdd.take(10).foreach { elem => {
-        if (elem._1 > 50)
+        if (elem._1 > 1)
           println("\nScore: " + elem._1 + "\nText:\n" + elem._2.getText)
       }}
         //case (score, status) => {
