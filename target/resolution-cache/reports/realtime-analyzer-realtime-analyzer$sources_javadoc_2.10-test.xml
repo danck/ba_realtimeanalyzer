@@ -7,21 +7,21 @@
 		revision="1.0"
 		conf="test"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20150606091018"/>
+		date="20150606103034"/>
 	<dependencies>
 		<module organisation="org.apache.spark" name="spark-streaming-twitter_2.10">
-			<revision name="1.3.0" status="release" pubdate="20150306004644" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://spark.apache.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="132">
-				<metadata-artifact status="no" details="" size="39399" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-streaming-twitter_2.10\ivy-1.3.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/spark/spark-streaming-twitter_2.10/1.3.0/spark-streaming-twitter_2.10-1.3.0.pom"/>
-				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="1.3.0" rev-constraint-default="1.3.0" rev-constraint-dynamic="1.3.0" callerrev="1.0"/>
+			<revision name="1.3.1" status="release" pubdate="20150411064908" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://spark.apache.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="132">
+				<metadata-artifact status="no" details="" size="39372" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-streaming-twitter_2.10\ivy-1.3.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/spark/spark-streaming-twitter_2.10/1.3.1/spark-streaming-twitter_2.10-1.3.1.pom"/>
+				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="1.3.1" rev-constraint-default="1.3.1" rev-constraint-dynamic="1.3.1" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="spark-streaming-twitter_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="359053" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-streaming-twitter_2.10\docs\spark-streaming-twitter_2.10-1.3.0-javadoc.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-streaming-twitter_2.10/1.3.0/spark-streaming-twitter_2.10-1.3.0-javadoc.jar"/>
+					<artifact name="spark-streaming-twitter_2.10" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="10118" time="601" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-streaming-twitter_2.10\srcs\spark-streaming-twitter_2.10-1.3.1-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-streaming-twitter_2.10/1.3.1/spark-streaming-twitter_2.10-1.3.1-sources.jar"/>
 					</artifact>
-					<artifact name="spark-streaming-twitter_2.10" type="jar" ext="jar" status="no" details="" size="23207" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-streaming-twitter_2.10\jars\spark-streaming-twitter_2.10-1.3.0.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-streaming-twitter_2.10/1.3.0/spark-streaming-twitter_2.10-1.3.0.jar"/>
+					<artifact name="spark-streaming-twitter_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="359047" time="924" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-streaming-twitter_2.10\docs\spark-streaming-twitter_2.10-1.3.1-javadoc.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-streaming-twitter_2.10/1.3.1/spark-streaming-twitter_2.10-1.3.1-javadoc.jar"/>
 					</artifact>
-					<artifact name="spark-streaming-twitter_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="10118" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-streaming-twitter_2.10\srcs\spark-streaming-twitter_2.10-1.3.0-sources.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-streaming-twitter_2.10/1.3.0/spark-streaming-twitter_2.10-1.3.0-sources.jar"/>
+					<artifact name="spark-streaming-twitter_2.10" type="jar" ext="jar" status="no" details="" size="23210" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-streaming-twitter_2.10\jars\spark-streaming-twitter_2.10-1.3.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-streaming-twitter_2.10/1.3.1/spark-streaming-twitter_2.10-1.3.1.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
@@ -95,36 +95,36 @@
 			</revision>
 		</module>
 		<module organisation="org.apache.spark" name="spark-mllib_2.10">
-			<revision name="1.3.0" status="release" pubdate="20150306004336" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://spark.apache.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="1">
-				<metadata-artifact status="no" details="" size="40092" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-mllib_2.10\ivy-1.3.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/spark/spark-mllib_2.10/1.3.0/spark-mllib_2.10-1.3.0.pom"/>
-				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="1.3.0" rev-constraint-default="1.3.0" rev-constraint-dynamic="1.3.0" callerrev="1.0"/>
+			<revision name="1.3.1" status="release" pubdate="20150411064609" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://spark.apache.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="1">
+				<metadata-artifact status="no" details="" size="40065" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-mllib_2.10\ivy-1.3.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/spark/spark-mllib_2.10/1.3.1/spark-mllib_2.10-1.3.1.pom"/>
+				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="1.3.1" rev-constraint-default="1.3.1" rev-constraint-dynamic="1.3.1" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="spark-mllib_2.10" type="jar" ext="jar" status="no" details="" size="2319724" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-mllib_2.10\jars\spark-mllib_2.10-1.3.0.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-mllib_2.10/1.3.0/spark-mllib_2.10-1.3.0.jar"/>
+					<artifact name="spark-mllib_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="1280807" time="1777" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-mllib_2.10\docs\spark-mllib_2.10-1.3.1-javadoc.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-mllib_2.10/1.3.1/spark-mllib_2.10-1.3.1-javadoc.jar"/>
 					</artifact>
-					<artifact name="spark-mllib_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="1280049" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-mllib_2.10\docs\spark-mllib_2.10-1.3.0-javadoc.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-mllib_2.10/1.3.0/spark-mllib_2.10-1.3.0-javadoc.jar"/>
+					<artifact name="spark-mllib_2.10" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="411680" time="952" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-mllib_2.10\srcs\spark-mllib_2.10-1.3.1-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-mllib_2.10/1.3.1/spark-mllib_2.10-1.3.1-sources.jar"/>
 					</artifact>
-					<artifact name="spark-mllib_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="409553" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-mllib_2.10\srcs\spark-mllib_2.10-1.3.0-sources.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-mllib_2.10/1.3.0/spark-mllib_2.10-1.3.0-sources.jar"/>
+					<artifact name="spark-mllib_2.10" type="jar" ext="jar" status="no" details="" size="2329348" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-mllib_2.10\jars\spark-mllib_2.10-1.3.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-mllib_2.10/1.3.1/spark-mllib_2.10-1.3.1.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="org.scalanlp" name="breeze_2.10">
-			<revision name="0.11.1" status="release" pubdate="20150304055632" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://scalanlp.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="124">
+			<revision name="0.11.2" status="release" pubdate="20150326181614" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://scalanlp.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="124">
 				<license name="Apache 2" url="http://www.apache.org/licenses/LICENSE-2.0.html"/>
-				<metadata-artifact status="no" details="" size="4624" time="0" location="C:\Users\Daniel\.ivy2\cache\org.scalanlp\breeze_2.10\ivy-0.11.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalanlp/breeze_2.10/0.11.1/breeze_2.10-0.11.1.pom"/>
-				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="0.11.1" rev-constraint-default="0.11.1" rev-constraint-dynamic="0.11.1" callerrev="1.0"/>
+				<metadata-artifact status="no" details="" size="4624" time="0" location="C:\Users\Daniel\.ivy2\cache\org.scalanlp\breeze_2.10\ivy-0.11.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalanlp/breeze_2.10/0.11.2/breeze_2.10-0.11.2.pom"/>
+				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="0.11.2" rev-constraint-default="0.11.2" rev-constraint-dynamic="0.11.2" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="breeze_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="5914116" time="0" location="C:\Users\Daniel\.ivy2\cache\org.scalanlp\breeze_2.10\docs\breeze_2.10-0.11.1-javadoc.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalanlp/breeze_2.10/0.11.1/breeze_2.10-0.11.1-javadoc.jar"/>
+					<artifact name="breeze_2.10" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="447470" time="938" location="C:\Users\Daniel\.ivy2\cache\org.scalanlp\breeze_2.10\srcs\breeze_2.10-0.11.2-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalanlp/breeze_2.10/0.11.2/breeze_2.10-0.11.2-sources.jar"/>
 					</artifact>
-					<artifact name="breeze_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="425846" time="0" location="C:\Users\Daniel\.ivy2\cache\org.scalanlp\breeze_2.10\srcs\breeze_2.10-0.11.1-sources.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalanlp/breeze_2.10/0.11.1/breeze_2.10-0.11.1-sources.jar"/>
+					<artifact name="breeze_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="6054337" time="5548" location="C:\Users\Daniel\.ivy2\cache\org.scalanlp\breeze_2.10\docs\breeze_2.10-0.11.2-javadoc.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalanlp/breeze_2.10/0.11.2/breeze_2.10-0.11.2-javadoc.jar"/>
 					</artifact>
-					<artifact name="breeze_2.10" type="jar" ext="jar" status="no" details="" size="13463545" time="0" location="C:\Users\Daniel\.ivy2\cache\org.scalanlp\breeze_2.10\jars\breeze_2.10-0.11.1.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalanlp/breeze_2.10/0.11.1/breeze_2.10-0.11.1.jar"/>
+					<artifact name="breeze_2.10" type="jar" ext="jar" status="no" details="" size="13689583" time="0" location="C:\Users\Daniel\.ivy2\cache\org.scalanlp\breeze_2.10\jars\breeze_2.10-0.11.2.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalanlp/breeze_2.10/0.11.2/breeze_2.10-0.11.2.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
@@ -221,36 +221,36 @@
 			</revision>
 		</module>
 		<module organisation="org.scalanlp" name="breeze-macros_2.10">
-			<revision name="0.11.1" status="release" pubdate="20150304055005" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://scalanlp.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="125">
+			<revision name="0.11.2" status="release" pubdate="20150326181115" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://scalanlp.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="125">
 				<license name="Apache 2" url="http://www.apache.org/licenses/LICENSE-2.0.html"/>
-				<metadata-artifact status="no" details="" size="3215" time="0" location="C:\Users\Daniel\.ivy2\cache\org.scalanlp\breeze-macros_2.10\ivy-0.11.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalanlp/breeze-macros_2.10/0.11.1/breeze-macros_2.10-0.11.1.pom"/>
-				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="0.11.1" rev-constraint-default="0.11.1" rev-constraint-dynamic="0.11.1" callerrev="1.0"/>
+				<metadata-artifact status="no" details="" size="3215" time="0" location="C:\Users\Daniel\.ivy2\cache\org.scalanlp\breeze-macros_2.10\ivy-0.11.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalanlp/breeze-macros_2.10/0.11.2/breeze-macros_2.10-0.11.2.pom"/>
+				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="0.11.2" rev-constraint-default="0.11.2" rev-constraint-dynamic="0.11.2" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="breeze-macros_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="380624" time="0" location="C:\Users\Daniel\.ivy2\cache\org.scalanlp\breeze-macros_2.10\docs\breeze-macros_2.10-0.11.1-javadoc.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalanlp/breeze-macros_2.10/0.11.1/breeze-macros_2.10-0.11.1-javadoc.jar"/>
+					<artifact name="breeze-macros_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="380624" time="932" location="C:\Users\Daniel\.ivy2\cache\org.scalanlp\breeze-macros_2.10\docs\breeze-macros_2.10-0.11.2-javadoc.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalanlp/breeze-macros_2.10/0.11.2/breeze-macros_2.10-0.11.2-javadoc.jar"/>
 					</artifact>
-					<artifact name="breeze-macros_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="5543" time="0" location="C:\Users\Daniel\.ivy2\cache\org.scalanlp\breeze-macros_2.10\srcs\breeze-macros_2.10-0.11.1-sources.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalanlp/breeze-macros_2.10/0.11.1/breeze-macros_2.10-0.11.1-sources.jar"/>
+					<artifact name="breeze-macros_2.10" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="5543" time="606" location="C:\Users\Daniel\.ivy2\cache\org.scalanlp\breeze-macros_2.10\srcs\breeze-macros_2.10-0.11.2-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalanlp/breeze-macros_2.10/0.11.2/breeze-macros_2.10-0.11.2-sources.jar"/>
 					</artifact>
-					<artifact name="breeze-macros_2.10" type="jar" ext="jar" status="no" details="" size="118301" time="0" location="C:\Users\Daniel\.ivy2\cache\org.scalanlp\breeze-macros_2.10\jars\breeze-macros_2.10-0.11.1.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalanlp/breeze-macros_2.10/0.11.1/breeze-macros_2.10-0.11.1.jar"/>
+					<artifact name="breeze-macros_2.10" type="jar" ext="jar" status="no" details="" size="118301" time="0" location="C:\Users\Daniel\.ivy2\cache\org.scalanlp\breeze-macros_2.10\jars\breeze-macros_2.10-0.11.2.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalanlp/breeze-macros_2.10/0.11.2/breeze-macros_2.10-0.11.2.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="org.apache.spark" name="spark-graphx_2.10">
-			<revision name="1.3.0" status="release" pubdate="20150306004416" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://spark.apache.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="122">
-				<metadata-artifact status="no" details="" size="38324" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-graphx_2.10\ivy-1.3.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/spark/spark-graphx_2.10/1.3.0/spark-graphx_2.10-1.3.0.pom"/>
-				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="1.3.0" rev-constraint-default="1.3.0" rev-constraint-dynamic="1.3.0" callerrev="1.0"/>
+			<revision name="1.3.1" status="release" pubdate="20150411064645" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://spark.apache.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="122">
+				<metadata-artifact status="no" details="" size="38297" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-graphx_2.10\ivy-1.3.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/spark/spark-graphx_2.10/1.3.1/spark-graphx_2.10-1.3.1.pom"/>
+				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="1.3.1" rev-constraint-default="1.3.1" rev-constraint-dynamic="1.3.1" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="spark-graphx_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="567282" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-graphx_2.10\docs\spark-graphx_2.10-1.3.0-javadoc.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-graphx_2.10/1.3.0/spark-graphx_2.10-1.3.0-javadoc.jar"/>
+					<artifact name="spark-graphx_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="567275" time="1111" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-graphx_2.10\docs\spark-graphx_2.10-1.3.1-javadoc.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-graphx_2.10/1.3.1/spark-graphx_2.10-1.3.1-javadoc.jar"/>
 					</artifact>
-					<artifact name="spark-graphx_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="95212" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-graphx_2.10\srcs\spark-graphx_2.10-1.3.0-sources.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-graphx_2.10/1.3.0/spark-graphx_2.10-1.3.0-sources.jar"/>
+					<artifact name="spark-graphx_2.10" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="95216" time="644" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-graphx_2.10\srcs\spark-graphx_2.10-1.3.1-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-graphx_2.10/1.3.1/spark-graphx_2.10-1.3.1-sources.jar"/>
 					</artifact>
-					<artifact name="spark-graphx_2.10" type="jar" ext="jar" status="no" details="" size="637071" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-graphx_2.10\jars\spark-graphx_2.10-1.3.0.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-graphx_2.10/1.3.0/spark-graphx_2.10-1.3.0.jar"/>
+					<artifact name="spark-graphx_2.10" type="jar" ext="jar" status="no" details="" size="637076" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-graphx_2.10\jars\spark-graphx_2.10-1.3.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-graphx_2.10/1.3.1/spark-graphx_2.10-1.3.1.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
@@ -274,18 +274,18 @@
 			</revision>
 		</module>
 		<module organisation="org.apache.spark" name="spark-sql_2.10">
-			<revision name="1.3.0" status="release" pubdate="20150306004329" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://spark.apache.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="107">
-				<metadata-artifact status="no" details="" size="39621" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-sql_2.10\ivy-1.3.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/spark/spark-sql_2.10/1.3.0/spark-sql_2.10-1.3.0.pom"/>
-				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="1.3.0" rev-constraint-default="1.3.0" rev-constraint-dynamic="1.3.0" callerrev="1.0"/>
+			<revision name="1.3.1" status="release" pubdate="20150411064606" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://spark.apache.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="107">
+				<metadata-artifact status="no" details="" size="39594" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-sql_2.10\ivy-1.3.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/spark/spark-sql_2.10/1.3.1/spark-sql_2.10-1.3.1.pom"/>
+				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="1.3.1" rev-constraint-default="1.3.1" rev-constraint-dynamic="1.3.1" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="spark-sql_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="979755" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-sql_2.10\docs\spark-sql_2.10-1.3.0-javadoc.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-sql_2.10/1.3.0/spark-sql_2.10-1.3.0-javadoc.jar"/>
+					<artifact name="spark-sql_2.10" type="jar" ext="jar" status="no" details="" size="2280609" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-sql_2.10\jars\spark-sql_2.10-1.3.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-sql_2.10/1.3.1/spark-sql_2.10-1.3.1.jar"/>
 					</artifact>
-					<artifact name="spark-sql_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="271313" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-sql_2.10\srcs\spark-sql_2.10-1.3.0-sources.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-sql_2.10/1.3.0/spark-sql_2.10-1.3.0-sources.jar"/>
+					<artifact name="spark-sql_2.10" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="278249" time="819" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-sql_2.10\srcs\spark-sql_2.10-1.3.1-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-sql_2.10/1.3.1/spark-sql_2.10-1.3.1-sources.jar"/>
 					</artifact>
-					<artifact name="spark-sql_2.10" type="jar" ext="jar" status="no" details="" size="2280713" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-sql_2.10\jars\spark-sql_2.10-1.3.0.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-sql_2.10/1.3.0/spark-sql_2.10-1.3.0.jar"/>
+					<artifact name="spark-sql_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="996111" time="1540" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-sql_2.10\docs\spark-sql_2.10-1.3.1-javadoc.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-sql_2.10/1.3.1/spark-sql_2.10-1.3.1-javadoc.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
@@ -476,18 +476,18 @@
 			</revision>
 		</module>
 		<module organisation="org.apache.spark" name="spark-catalyst_2.10">
-			<revision name="1.3.0" status="release" pubdate="20150306004439" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://spark.apache.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="108">
-				<metadata-artifact status="no" details="" size="38527" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-catalyst_2.10\ivy-1.3.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.10/1.3.0/spark-catalyst_2.10-1.3.0.pom"/>
-				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="1.3.0" rev-constraint-default="1.3.0" rev-constraint-dynamic="1.3.0" callerrev="1.0"/>
+			<revision name="1.3.1" status="release" pubdate="20150411064718" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://spark.apache.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="108">
+				<metadata-artifact status="no" details="" size="38500" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-catalyst_2.10\ivy-1.3.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.10/1.3.1/spark-catalyst_2.10-1.3.1.pom"/>
+				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="1.3.1" rev-constraint-default="1.3.1" rev-constraint-dynamic="1.3.1" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="spark-catalyst_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="2638852" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-catalyst_2.10\docs\spark-catalyst_2.10-1.3.0-javadoc.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.10/1.3.0/spark-catalyst_2.10-1.3.0-javadoc.jar"/>
+					<artifact name="spark-catalyst_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="2652436" time="2772" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-catalyst_2.10\docs\spark-catalyst_2.10-1.3.1-javadoc.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.10/1.3.1/spark-catalyst_2.10-1.3.1-javadoc.jar"/>
 					</artifact>
-					<artifact name="spark-catalyst_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="176131" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-catalyst_2.10\srcs\spark-catalyst_2.10-1.3.0-sources.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.10/1.3.0/spark-catalyst_2.10-1.3.0-sources.jar"/>
+					<artifact name="spark-catalyst_2.10" type="jar" ext="jar" status="no" details="" size="2877094" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-catalyst_2.10\jars\spark-catalyst_2.10-1.3.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.10/1.3.1/spark-catalyst_2.10-1.3.1.jar"/>
 					</artifact>
-					<artifact name="spark-catalyst_2.10" type="jar" ext="jar" status="no" details="" size="2805052" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-catalyst_2.10\jars\spark-catalyst_2.10-1.3.0.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.10/1.3.0/spark-catalyst_2.10-1.3.0.jar"/>
+					<artifact name="spark-catalyst_2.10" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="181268" time="795" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-catalyst_2.10\srcs\spark-catalyst_2.10-1.3.1-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.10/1.3.1/spark-catalyst_2.10-1.3.1-sources.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
@@ -529,35 +529,35 @@
 			</revision>
 		</module>
 		<module organisation="org.apache.spark" name="spark-streaming_2.10">
-			<revision name="1.3.0" status="release" pubdate="20150306004609" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://spark.apache.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="106">
-				<metadata-artifact status="no" details="" size="40548" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-streaming_2.10\ivy-1.3.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.10/1.3.0/spark-streaming_2.10-1.3.0.pom"/>
-				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="1.3.0" rev-constraint-default="1.3.0" rev-constraint-dynamic="1.3.0" callerrev="1.0"/>
+			<revision name="1.3.1" status="release" pubdate="20150411064849" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://spark.apache.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="106">
+				<metadata-artifact status="no" details="" size="41530" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-streaming_2.10\ivy-1.3.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.10/1.3.1/spark-streaming_2.10-1.3.1.pom"/>
+				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="1.3.1" rev-constraint-default="1.3.1" rev-constraint-dynamic="1.3.1" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="spark-streaming_2.10" type="jar" ext="jar" status="no" details="" size="1312812" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-streaming_2.10\jars\spark-streaming_2.10-1.3.0.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.10/1.3.0/spark-streaming_2.10-1.3.0.jar"/>
+					<artifact name="spark-streaming_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="635340" time="1097" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-streaming_2.10\docs\spark-streaming_2.10-1.3.1-javadoc.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.10/1.3.1/spark-streaming_2.10-1.3.1-javadoc.jar"/>
 					</artifact>
-					<artifact name="spark-streaming_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="634987" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-streaming_2.10\docs\spark-streaming_2.10-1.3.0-javadoc.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.10/1.3.0/spark-streaming_2.10-1.3.0-javadoc.jar"/>
+					<artifact name="spark-streaming_2.10" type="jar" ext="jar" status="no" details="" size="1314869" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-streaming_2.10\jars\spark-streaming_2.10-1.3.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.10/1.3.1/spark-streaming_2.10-1.3.1.jar"/>
 					</artifact>
-					<artifact name="spark-streaming_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="184278" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-streaming_2.10\srcs\spark-streaming_2.10-1.3.0-sources.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.10/1.3.0/spark-streaming_2.10-1.3.0-sources.jar"/>
+					<artifact name="spark-streaming_2.10" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="184649" time="714" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-streaming_2.10\srcs\spark-streaming_2.10-1.3.1-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.10/1.3.1/spark-streaming_2.10-1.3.1-sources.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="org.apache.spark" name="spark-core_2.10">
-			<revision name="1.3.0" status="release" pubdate="20150306004323" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://spark.apache.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="2">
-				<metadata-artifact status="no" details="" size="47728" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-core_2.10\ivy-1.3.0.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/apache/spark/spark-core_2.10/1.3.0/spark-core_2.10-1.3.0.pom"/>
-				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="1.3.0" rev-constraint-default="1.3.0" rev-constraint-dynamic="1.3.0" callerrev="1.0"/>
+			<revision name="1.3.1" status="release" pubdate="20150411064559" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://spark.apache.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="2">
+				<metadata-artifact status="no" details="" size="48374" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-core_2.10\ivy-1.3.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/spark/spark-core_2.10/1.3.1/spark-core_2.10-1.3.1.pom"/>
+				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="1.3.1" rev-constraint-default="1.3.1" rev-constraint-dynamic="1.3.1" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="spark-core_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="1522647" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-core_2.10\docs\spark-core_2.10-1.3.0-javadoc.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-core_2.10/1.3.0/spark-core_2.10-1.3.0-javadoc.jar"/>
+					<artifact name="spark-core_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="1528565" time="2466" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-core_2.10\docs\spark-core_2.10-1.3.1-javadoc.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-core_2.10/1.3.1/spark-core_2.10-1.3.1-javadoc.jar"/>
 					</artifact>
-					<artifact name="spark-core_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1199547" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-core_2.10\srcs\spark-core_2.10-1.3.0-sources.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-core_2.10/1.3.0/spark-core_2.10-1.3.0-sources.jar"/>
+					<artifact name="spark-core_2.10" type="jar" ext="jar" status="no" details="" size="8873578" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.3.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-core_2.10/1.3.1/spark-core_2.10-1.3.1.jar"/>
 					</artifact>
-					<artifact name="spark-core_2.10" type="jar" ext="jar" status="no" details="" size="8860199" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.3.0.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-core_2.10/1.3.0/spark-core_2.10-1.3.0.jar"/>
+					<artifact name="spark-core_2.10" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="1202199" time="1539" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-core_2.10\srcs\spark-core_2.10-1.3.1-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-core_2.10/1.3.1/spark-core_2.10-1.3.1-sources.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
@@ -741,11 +741,11 @@
 					<artifact name="metrics-graphite" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="60052" time="0" location="C:\Users\Daniel\.ivy2\cache\io.dropwizard.metrics\metrics-graphite\docs\metrics-graphite-3.1.0-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/io/dropwizard/metrics/metrics-graphite/3.1.0/metrics-graphite-3.1.0-javadoc.jar"/>
 					</artifact>
-					<artifact name="metrics-graphite" type="jar" ext="jar" status="no" details="" size="20638" time="0" location="C:\Users\Daniel\.ivy2\cache\io.dropwizard.metrics\metrics-graphite\jars\metrics-graphite-3.1.0.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/io/dropwizard/metrics/metrics-graphite/3.1.0/metrics-graphite-3.1.0.jar"/>
-					</artifact>
 					<artifact name="metrics-graphite" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="10570" time="0" location="C:\Users\Daniel\.ivy2\cache\io.dropwizard.metrics\metrics-graphite\srcs\metrics-graphite-3.1.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/io/dropwizard/metrics/metrics-graphite/3.1.0/metrics-graphite-3.1.0-sources.jar"/>
+					</artifact>
+					<artifact name="metrics-graphite" type="jar" ext="jar" status="no" details="" size="20638" time="0" location="C:\Users\Daniel\.ivy2\cache\io.dropwizard.metrics\metrics-graphite\jars\metrics-graphite-3.1.0.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/io/dropwizard/metrics/metrics-graphite/3.1.0/metrics-graphite-3.1.0.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
@@ -1196,23 +1196,6 @@
 				</artifacts>
 			</revision>
 		</module>
-		<module organisation="org.slf4j" name="slf4j-log4j12">
-			<revision name="1.7.10" status="release" pubdate="20150106211207" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.slf4j.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="69">
-				<metadata-artifact status="no" details="" size="4877" time="0" location="C:\Users\Daniel\.ivy2\cache\org.slf4j\slf4j-log4j12\ivy-1.7.10.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.10/slf4j-log4j12-1.7.10.pom"/>
-				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="1.7.10" rev-constraint-default="1.7.10" rev-constraint-dynamic="1.7.10" callerrev="1.0"/>
-				<artifacts>
-					<artifact name="slf4j-log4j12" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="66766" time="0" location="C:\Users\Daniel\.ivy2\cache\org.slf4j\slf4j-log4j12\docs\slf4j-log4j12-1.7.10-javadoc.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.10/slf4j-log4j12-1.7.10-javadoc.jar"/>
-					</artifact>
-					<artifact name="slf4j-log4j12" type="jar" ext="jar" status="no" details="" size="8866" time="0" location="C:\Users\Daniel\.ivy2\cache\org.slf4j\slf4j-log4j12\jars\slf4j-log4j12-1.7.10.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.10/slf4j-log4j12-1.7.10.jar"/>
-					</artifact>
-					<artifact name="slf4j-log4j12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="10411" time="0" location="C:\Users\Daniel\.ivy2\cache\org.slf4j\slf4j-log4j12\srcs\slf4j-log4j12-1.7.10-sources.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.10/slf4j-log4j12-1.7.10-sources.jar"/>
-					</artifact>
-				</artifacts>
-			</revision>
-		</module>
 		<module organisation="org.apache.commons" name="commons-math3">
 			<revision name="3.1.1" status="release" pubdate="20130109171459" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://commons.apache.org/math/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="65">
 				<metadata-artifact status="no" details="" size="8194" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.commons\commons-math3\ivy-3.1.1.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.1.1/commons-math3-3.1.1.pom"/>
@@ -1348,35 +1331,35 @@
 			</revision>
 		</module>
 		<module organisation="org.apache.spark" name="spark-network-shuffle_2.10">
-			<revision name="1.3.0" status="release" pubdate="20150306004649" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://spark.apache.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="55">
-				<metadata-artifact status="no" details="" size="39412" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-network-shuffle_2.10\ivy-1.3.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/spark/spark-network-shuffle_2.10/1.3.0/spark-network-shuffle_2.10-1.3.0.pom"/>
-				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="1.3.0" rev-constraint-default="1.3.0" rev-constraint-dynamic="1.3.0" callerrev="1.0"/>
+			<revision name="1.3.1" status="release" pubdate="20150411064910" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://spark.apache.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="55">
+				<metadata-artifact status="no" details="" size="39385" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-network-shuffle_2.10\ivy-1.3.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/spark/spark-network-shuffle_2.10/1.3.1/spark-network-shuffle_2.10-1.3.1.pom"/>
+				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="1.3.1" rev-constraint-default="1.3.1" rev-constraint-dynamic="1.3.1" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="spark-network-shuffle_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="40146" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-network-shuffle_2.10\srcs\spark-network-shuffle_2.10-1.3.0-sources.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-network-shuffle_2.10/1.3.0/spark-network-shuffle_2.10-1.3.0-sources.jar"/>
+					<artifact name="spark-network-shuffle_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="427520" time="989" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-network-shuffle_2.10\docs\spark-network-shuffle_2.10-1.3.1-javadoc.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-network-shuffle_2.10/1.3.1/spark-network-shuffle_2.10-1.3.1-javadoc.jar"/>
 					</artifact>
-					<artifact name="spark-network-shuffle_2.10" type="jar" ext="jar" status="no" details="" size="57592" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-network-shuffle_2.10\jars\spark-network-shuffle_2.10-1.3.0.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-network-shuffle_2.10/1.3.0/spark-network-shuffle_2.10-1.3.0.jar"/>
+					<artifact name="spark-network-shuffle_2.10" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="40147" time="713" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-network-shuffle_2.10\srcs\spark-network-shuffle_2.10-1.3.1-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-network-shuffle_2.10/1.3.1/spark-network-shuffle_2.10-1.3.1-sources.jar"/>
 					</artifact>
-					<artifact name="spark-network-shuffle_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="427528" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-network-shuffle_2.10\docs\spark-network-shuffle_2.10-1.3.0-javadoc.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-network-shuffle_2.10/1.3.0/spark-network-shuffle_2.10-1.3.0-javadoc.jar"/>
+					<artifact name="spark-network-shuffle_2.10" type="jar" ext="jar" status="no" details="" size="57599" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-network-shuffle_2.10\jars\spark-network-shuffle_2.10-1.3.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-network-shuffle_2.10/1.3.1/spark-network-shuffle_2.10-1.3.1.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="org.apache.spark" name="spark-network-common_2.10">
-			<revision name="1.3.0" status="release" pubdate="20150306004501" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://spark.apache.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="52">
-				<metadata-artifact status="no" details="" size="39024" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-network-common_2.10\ivy-1.3.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/spark/spark-network-common_2.10/1.3.0/spark-network-common_2.10-1.3.0.pom"/>
-				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="1.3.0" rev-constraint-default="1.3.0" rev-constraint-dynamic="1.3.0" callerrev="1.0"/>
+			<revision name="1.3.1" status="release" pubdate="20150411064734" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://spark.apache.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="52">
+				<metadata-artifact status="no" details="" size="39117" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-network-common_2.10\ivy-1.3.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/spark/spark-network-common_2.10/1.3.1/spark-network-common_2.10-1.3.1.pom"/>
+				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="1.3.1" rev-constraint-default="1.3.1" rev-constraint-dynamic="1.3.1" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="spark-network-common_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="65476" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-network-common_2.10\srcs\spark-network-common_2.10-1.3.0-sources.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-network-common_2.10/1.3.0/spark-network-common_2.10-1.3.0-sources.jar"/>
+					<artifact name="spark-network-common_2.10" type="jar" ext="jar" status="no" details="" size="2301222" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-network-common_2.10\jars\spark-network-common_2.10-1.3.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-network-common_2.10/1.3.1/spark-network-common_2.10-1.3.1.jar"/>
 					</artifact>
-					<artifact name="spark-network-common_2.10" type="jar" ext="jar" status="no" details="" size="2299671" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-network-common_2.10\jars\spark-network-common_2.10-1.3.0.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-network-common_2.10/1.3.0/spark-network-common_2.10-1.3.0.jar"/>
+					<artifact name="spark-network-common_2.10" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="67097" time="708" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-network-common_2.10\srcs\spark-network-common_2.10-1.3.1-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-network-common_2.10/1.3.1/spark-network-common_2.10-1.3.1-sources.jar"/>
 					</artifact>
-					<artifact name="spark-network-common_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="510198" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-network-common_2.10\docs\spark-network-common_2.10-1.3.0-javadoc.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-network-common_2.10/1.3.0/spark-network-common_2.10-1.3.0-javadoc.jar"/>
+					<artifact name="spark-network-common_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="510184" time="1042" location="C:\Users\Daniel\.ivy2\cache\org.apache.spark\spark-network-common_2.10\docs\spark-network-common_2.10-1.3.1-javadoc.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-network-common_2.10/1.3.1/spark-network-common_2.10-1.3.1-javadoc.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
@@ -1395,6 +1378,23 @@
 					</artifact>
 					<artifact name="unused" type="jar" ext="jar" status="no" details="" size="2777" time="0" location="C:\Users\Daniel\.ivy2\cache\org.spark-project.spark\unused\jars\unused-1.0.0.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/spark-project/spark/unused/1.0.0/unused-1.0.0.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.slf4j" name="slf4j-log4j12">
+			<revision name="1.7.10" status="release" pubdate="20150106211207" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.slf4j.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="69">
+				<metadata-artifact status="no" details="" size="4877" time="0" location="C:\Users\Daniel\.ivy2\cache\org.slf4j\slf4j-log4j12\ivy-1.7.10.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.10/slf4j-log4j12-1.7.10.pom"/>
+				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="1.7.10" rev-constraint-default="1.7.10" rev-constraint-dynamic="1.7.10" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="slf4j-log4j12" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="66766" time="0" location="C:\Users\Daniel\.ivy2\cache\org.slf4j\slf4j-log4j12\docs\slf4j-log4j12-1.7.10-javadoc.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.10/slf4j-log4j12-1.7.10-javadoc.jar"/>
+					</artifact>
+					<artifact name="slf4j-log4j12" type="jar" ext="jar" status="no" details="" size="8866" time="0" location="C:\Users\Daniel\.ivy2\cache\org.slf4j\slf4j-log4j12\jars\slf4j-log4j12-1.7.10.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.10/slf4j-log4j12-1.7.10.jar"/>
+					</artifact>
+					<artifact name="slf4j-log4j12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="10411" time="0" location="C:\Users\Daniel\.ivy2\cache\org.slf4j\slf4j-log4j12\srcs\slf4j-log4j12-1.7.10-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.10/slf4j-log4j12-1.7.10-sources.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
@@ -1483,7 +1483,7 @@
 		</module>
 		<module organisation="org.apache.hadoop" name="hadoop-mapreduce-client-shuffle">
 			<revision name="2.2.0" status="release" pubdate="20131007083703" resolver="public" artresolver="public" homepage="" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="50">
-				<metadata-artifact status="successful" details="" size="1675" time="434" location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-shuffle\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-shuffle\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.pom"/>
+				<metadata-artifact status="successful" details="" size="1675" time="464" location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-shuffle\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-shuffle\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.pom"/>
 				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="2.2.0" rev-constraint-default="2.2.0" rev-constraint-dynamic="2.2.0" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="hadoop-mapreduce-client-shuffle" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="108204" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-shuffle\docs\hadoop-mapreduce-client-shuffle-2.2.0-javadoc.jar">
@@ -1500,7 +1500,7 @@
 		</module>
 		<module organisation="org.apache.hadoop" name="hadoop-yarn-server-nodemanager">
 			<revision name="2.2.0" status="release" pubdate="20131007083538" resolver="public" artresolver="public" homepage="" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="105">
-				<metadata-artifact status="successful" details="" size="7324" time="461" location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-yarn-server-nodemanager\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-yarn-server-nodemanager\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.2.0/hadoop-yarn-server-nodemanager-2.2.0.pom"/>
+				<metadata-artifact status="successful" details="" size="7324" time="401" location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-yarn-server-nodemanager\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-yarn-server-nodemanager\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.2.0/hadoop-yarn-server-nodemanager-2.2.0.pom"/>
 				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="2.2.0" rev-constraint-default="2.2.0" rev-constraint-dynamic="2.2.0" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="hadoop-yarn-server-nodemanager" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="262442" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-yarn-server-nodemanager\srcs\hadoop-yarn-server-nodemanager-2.2.0-sources.jar">
@@ -1517,7 +1517,7 @@
 		</module>
 		<module organisation="org.apache.hadoop" name="hadoop-mapreduce-client-common">
 			<revision name="2.2.0" status="release" pubdate="20131007083659" resolver="public" artresolver="public" homepage="" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="30">
-				<metadata-artifact status="successful" details="" size="3273" time="508" location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-common\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-common\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.pom"/>
+				<metadata-artifact status="successful" details="" size="3273" time="449" location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-common\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-common\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.pom"/>
 				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="2.2.0" rev-constraint-default="2.2.0" rev-constraint-dynamic="2.2.0" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="hadoop-mapreduce-client-common" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="244749" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-common\srcs\hadoop-mapreduce-client-common-2.2.0-sources.jar">
@@ -1585,7 +1585,7 @@
 		</module>
 		<module organisation="org.apache.hadoop" name="hadoop-yarn-common">
 			<revision name="2.2.0" status="release" pubdate="20131007083515" resolver="public" artresolver="public" homepage="" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="31">
-				<metadata-artifact status="successful" details="" size="5032" time="431" location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-yarn-common\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-yarn-common\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.pom"/>
+				<metadata-artifact status="successful" details="" size="5032" time="407" location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-yarn-common\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-yarn-common\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.pom"/>
 				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="2.2.0" rev-constraint-default="2.2.0" rev-constraint-dynamic="2.2.0" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="hadoop-yarn-common" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="6749818" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-yarn-common\docs\hadoop-yarn-common-2.2.0-javadoc.jar">
@@ -1602,7 +1602,7 @@
 		</module>
 		<module organisation="org.apache.hadoop" name="hadoop-yarn-api">
 			<revision name="2.2.0" status="release" pubdate="20131007083452" resolver="public" artresolver="public" homepage="" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="32">
-				<metadata-artifact status="successful" details="" size="2956" time="498" location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-yarn-api\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-yarn-api\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.pom"/>
+				<metadata-artifact status="successful" details="" size="2956" time="450" location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-yarn-api\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-yarn-api\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.pom"/>
 				<caller organisation="realtime-analyzer" name="realtime-analyzer$sources_javadoc_2.10" conf="test, compile, runtime" rev="2.2.0" rev-constraint-default="2.2.0" rev-constraint-dynamic="2.2.0" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="hadoop-yarn-api" type="jar" ext="jar" status="no" details="" size="1158936" time="0" location="C:\Users\Daniel\.ivy2\cache\org.apache.hadoop\hadoop-yarn-api\jars\hadoop-yarn-api-2.2.0.jar">
