@@ -27,7 +27,6 @@ import org.apache.spark.mllib.linalg.{Vector}
 import org.apache.spark.streaming.twitter.TwitterUtils
 import org.apache.spark.streaming.{Seconds, StreamingContext}
 import org.apache.spark.SparkConf
-import twitter4j.Status
 
 /**
  * Analyzes a stream of tweets by scoring each by relevant words
@@ -37,7 +36,7 @@ import twitter4j.Status
  */
 object RealtimeAnalyzer {
   // Minimum score for a tweet to be considered relevant
-  val minScore: Double = 1.0
+  val minScore: Double = 30.0
 
   // local file system path to load the feature vector from
   private val modelPath: String = "/tmp/tfidf"
@@ -76,20 +75,6 @@ object RealtimeAnalyzer {
     val broadcastScores = ssc.sparkContext.broadcast(scores)
 
     val hashingTF = new HashingTF(1 << 20)
-
-    /*val scoredTweets = {
-      stream.map(status => (
-        status.getText.split(" ")
-          .map(word =>
-            scores.apply(
-              hashingTF.indexOf(word.toLowerCase.replaceAll("[^a-zA-Z0-9]", " ")))
-          )
-          .reduce(_ + _)
-          ./(status.getText.split(" ").length)
-        , status)
-      )
-    }*/
-
 
     // Split text sting into single words
     val splitTweets = {
