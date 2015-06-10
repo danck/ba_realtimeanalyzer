@@ -36,7 +36,7 @@ import org.apache.spark.SparkConf
  */
 object RealtimeAnalyzer {
   // Minimum score for a tweet to be considered relevant
-  val minScore: Double = 30.0
+  val minScore: Double = 4.0
 
   // local file system path to load the feature vector from
   private val modelPath: String = "/tmp/tfidf"
