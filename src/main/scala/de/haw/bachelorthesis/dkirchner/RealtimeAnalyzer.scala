@@ -36,9 +36,9 @@ import org.apache.spark.SparkConf
  *
  *
  */
-object RealtimeAnalyzer extends Actor {
+object RealtimeAnalyzer {
   // Minimum score for a tweet to be considered relevant
-  val minScore: Double = 10.0
+  val minScore: Double = 1.0
 
   // local file system path to load the feature vector from
   private val modelPath: String = "/tmp/tfidf"
@@ -78,6 +78,20 @@ object RealtimeAnalyzer extends Actor {
 
     val hashingTF = new HashingTF(1 << 20)
 
+    /*val scoredTweets = {
+      stream.map(status => (
+        status.getText.split(" ")
+          .map(word =>
+            scores.apply(
+              hashingTF.indexOf(word.toLowerCase.replaceAll("[^a-zA-Z0-9]", " ")))
+          )
+          .reduce(_ + _)
+          ./(status.getText.split(" ").length)
+        , status)
+      )
+    }*/
+
+
     val scoredTweets = {
       stream.map(status => (
         status.getText.split(" ")
@@ -105,6 +119,5 @@ object RealtimeAnalyzer extends Actor {
     ssc.awaitTermination()
   }
 
-  override def receive: Receive = ???
 }
 }
