@@ -42,9 +42,6 @@ object RealtimeAnalyzer {
   // local file system path to load the feature vector from
   private val modelPath: String = "/tmp/tfidf"
 
-  @volatile
-  var scores: Vector = null
-
   def main(args: Array[String]) {
     if (args.length < 4) {
       System.err.println("Usage: RealtimeAnalyzer <consumer key> <consumer secret> " +
@@ -63,6 +60,7 @@ object RealtimeAnalyzer {
     val sparkConf = new SparkConf().setAppName("Model Builder")
     val ssc = new StreamingContext(sparkConf, Seconds(5))
     val stream = TwitterUtils.createStream(ssc, None)
+    var scores: Vector = null
 
     try {
       val ois = new ObjectInputStream(new FileInputStream(modelPath))
@@ -74,6 +72,8 @@ object RealtimeAnalyzer {
         ssc.stop()
         System.exit(1)
     }
+
+    val broadcastScores = ssc.sparkContext.broadcast(scores)
 
     val hashingTF = new HashingTF(1 << 20)
 
@@ -101,11 +101,8 @@ object RealtimeAnalyzer {
     // calculate score for each word, then sum the scores and normalize
     val scoredTweets = {
       splitTweets.map(splitTweet => {
-        if (splitTweet._1 == null || splitTweet._2 == null) {
-          throw new Exception("########## Hier ist was NULL" + splitTweet)
-        }
         (splitTweet._1.map(word =>
-           scores.apply(
+          broadcastScores.value.apply(
              hashingTF.indexOf(word.toLowerCase.replaceAll("[^a-zA-Z0-9]", " ")))
          ).sum./(splitTweet._2.getText.split(" ").length),
           splitTweet._2
