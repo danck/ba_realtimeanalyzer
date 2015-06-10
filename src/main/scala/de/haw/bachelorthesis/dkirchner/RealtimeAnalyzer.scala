@@ -94,14 +94,7 @@ object RealtimeAnalyzer {
 
     val scoredTweets = {
       stream.map(status => (
-        status.getText.split(" ")
-          .map(word =>
-            scores.apply(
-              hashingTF.indexOf(word.toLowerCase.replaceAll("[^a-zA-Z0-9]", " ")))
-          )
-          .reduce(_ + _)
-          ./(status.getText.split(" ").length)
-        , status)
+        2.0, status)
       )
     }
 
