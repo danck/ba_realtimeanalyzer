@@ -100,13 +100,16 @@ object RealtimeAnalyzer {
 
     // calculate score for each word, then sum the scores and normalize
     val scoredTweets = {
-      splitTweets.map(splitTweet =>
+      splitTweets.map(splitTweet => {
+        if (splitTweet._1 == null || splitTweet._2 == null) {
+          throw new Exception("########## Hier ist was NULL" + splitTweet)
+        }
         (splitTweet._1.map(word =>
            scores.apply(
              hashingTF.indexOf(word.toLowerCase.replaceAll("[^a-zA-Z0-9]", " ")))
-         ).reduce(_ + _)./(splitTweet._2.getText.split(" ").length),
+         ).sum./(splitTweet._2.getText.split(" ").length),
           splitTweet._2
-        )
+          )}
       )
     }
 
