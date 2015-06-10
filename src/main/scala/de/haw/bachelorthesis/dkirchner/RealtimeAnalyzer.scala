@@ -22,13 +22,12 @@
 package de.haw.bachelorthesis.dkirchner {
 
 import java.io.{FileInputStream, ObjectInputStream}
-import akka.actor.Actor
-import akka.actor.Actor.Receive
 import org.apache.spark.mllib.feature.HashingTF
-import org.apache.spark.mllib.linalg.{Vector, SparseVector}
+import org.apache.spark.mllib.linalg.{Vector}
+import org.apache.spark.streaming.twitter.TwitterUtils
 import org.apache.spark.streaming.{Seconds, StreamingContext}
-import org.apache.spark.streaming.twitter._
 import org.apache.spark.SparkConf
+import twitter4j.Status
 
 /**
  * Analyzes a stream of tweets by scoring each by relevant words
@@ -92,9 +91,22 @@ object RealtimeAnalyzer {
     }*/
 
 
+    // Split text sting into single words
+    val splitTweets = {
+      stream.map(status =>
+        (status.getText.split(" "), status)
+      )
+    }
+
+    // calculate score for each word, then sum the scores and normalize
     val scoredTweets = {
-      stream.map(status => (
-        2.0, status)
+      splitTweets.map(splitTweet =>
+        (splitTweet._1.map(word =>
+           scores.apply(
+             hashingTF.indexOf(word.toLowerCase.replaceAll("[^a-zA-Z0-9]", " ")))
+         ).reduce(_ + _)./(splitTweet._2.getText.split(" ").length),
+          splitTweet._2
+        )
       )
     }
 
