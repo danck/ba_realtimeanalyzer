@@ -101,10 +101,10 @@ object RealtimeAnalyzer {
       println("Next RDD")
       rdd.collect().foreach { elem => {
         if (elem._1 > minScore)
-          println("\nScore: " + elem._1 + "\nText:\n" + elem._2.getText + "\n")
-          //tweetSink.append("\nScore: " + elem._1 + "\nText:\n" + elem._2.getText + "\n")
+          //println("\nScore: " + elem._1 + "\nText:\n" + elem._2.getText + "\n")
+          tweetSink.append("\nScore: " + elem._1 + "\nText:\n" + elem._2.getText + "\n")
       }}
-      //println("Relevant Tweets: " + tweetSink)
+      println("Relevant Tweets: " + tweetSink)
     })
 
     ssc.start()
