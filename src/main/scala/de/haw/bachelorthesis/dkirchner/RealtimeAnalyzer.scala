@@ -88,7 +88,8 @@ object RealtimeAnalyzer {
       splitTweets.map(splitTweet => {
         (splitTweet._1.map(word =>
           broadcastScores.value.apply(
-             hashingTF.indexOf(word.toLowerCase.replaceAll("[^a-zA-Z0-9]", " ")))
+             hashingTF.indexOf(word.toLowerCase
+               .replaceAll("[^a-zA-Z0-9]", " ")))
          ).sum./(splitTweet._2.getText.split(" ").length),
           splitTweet._2
           )}
@@ -100,9 +101,10 @@ object RealtimeAnalyzer {
       println("Next RDD")
       rdd.collect().foreach { elem => {
         if (elem._1 > minScore)
-          tweetSink.append("\nScore: " + elem._1 + "\nText:\n" + elem._2.getText + "\n")
+          println("\nScore: " + elem._1 + "\nText:\n" + elem._2.getText + "\n")
+          //tweetSink.append("\nScore: " + elem._1 + "\nText:\n" + elem._2.getText + "\n")
       }}
-      println("Relevant Tweets: " + tweetSink)
+      //println("Relevant Tweets: " + tweetSink)
     })
 
     ssc.start()
