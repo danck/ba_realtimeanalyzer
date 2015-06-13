@@ -22,6 +22,7 @@
 package de.haw.bachelorthesis.dkirchner {
 
 import java.io.{FileInputStream, ObjectInputStream}
+import java.util.Calendar
 import org.apache.spark.mllib.feature.HashingTF
 import org.apache.spark.mllib.linalg.{Vector}
 import org.apache.spark.streaming.twitter.TwitterUtils
@@ -36,7 +37,7 @@ import org.apache.spark.SparkConf
  */
 object RealtimeAnalyzer {
   // Minimum score for a tweet to be considered relevant
-  val minScore: Double = 4.0
+  val minScore: Double = -1.0
 
   // local file system path to load the feature vector from
   private val modelPath: String = "/tmp/tfidf"
@@ -97,14 +98,17 @@ object RealtimeAnalyzer {
     }
 
     val tweetSink = new StringBuilder
+    tweetSink.append(Calendar.getInstance.getTime + "," + Calendar.getInstance.getTimeZone + "\n")
+    tweetSink.append("Score,Message Content")
     scoredTweets.foreachRDD(rdd => {
-      println("Next RDD")
+      //println("Next RDD")
       rdd.collect().foreach { elem => {
         if (elem._1 > minScore)
           //println("\nScore: " + elem._1 + "\nText:\n" + elem._2.getText + "\n")
-          tweetSink.append("\nScore: " + elem._1 + "\nText:\n" + elem._2.getText + "\n")
+          tweetSink.append(elem._1 + "\"\"\"" + elem._2.getText + "\"\"\"\n")
       }}
-      println("Relevant Tweets: " + tweetSink)
+      println(tweetSink)
+      tweetSink.clear()
     })
 
     ssc.start()
