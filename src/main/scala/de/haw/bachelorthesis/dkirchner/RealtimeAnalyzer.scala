@@ -107,7 +107,10 @@ object RealtimeAnalyzer {
           //println("\nScore: " + elem._1 + "\nText:\n" + elem._2.getText + "\n")
           tweetSink.append(elem._1 + ",\"\"\"" + elem._2.getText.replace("\n", " ") + "\"\"\"\n")
       }}
-      println(tweetSink)
+      if (tweetSink.nonEmpty &&
+        !tweetSink.equals(",\"\"\"\"\"\"\n") &&
+        !tweetSink.equals(",\"\"\" \"\"\"\n")) {
+        println(tweetSink)}
       tweetSink.clear()
     })
 
